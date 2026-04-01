@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T19:50:37.946427+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2026-04-01T21:12:41.202051+08:00",
+  "total_titles_processed": 1766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 147,
+      "match_count": 153,
       "titles": [
         {
           "title": "鲁比奥放话：美国不会允许伊朗向通过霍尔木兹海峡的船舶收费",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时06分 ~ 19时50分]"
+          "appearance_count": 21,
+          "time_info": "[00时06分 ~ 21时12分]"
         },
         {
           "title": "伊朗总统：满足必要条件，愿意结束战争",
@@ -66,6 +66,47 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时08分 ~ 19时50分]"
+        },
+        {
+          "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
+          "url": "https://wallstreetcn.com/articles/3768922",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时08分 ~ 21时12分]"
+        },
+        {
+          "title": "中俄协助伊朗？美防长回应",
+          "url": "https://news.ifeng.com/c/8rxhKnCdBj2",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时08分 ~ 21时12分]"
+        },
+        {
+          "title": "伊朗媒体称伊武装部队总参谋长顾问遇害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32868034",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时08分 ~ 21时12分]"
         },
         {
           "title": "伊朗：将打击中东与苹果等有关的企业",
@@ -102,28 +143,16 @@
           "time_info": "[01时54分 ~ 07时37分]"
         },
         {
-          "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
-          "url": "https://wallstreetcn.com/articles/3768922",
-          "source": "华尔街见闻",
+          "title": "美以袭击伊朗进入第 33 天，当前局势如何？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2022445055642792589",
+          "source": "知乎",
           "ranks": [
             6,
-            5
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时08分 ~ 19时50分]"
-        },
-        {
-          "title": "中俄协助伊朗？美防长回应",
-          "url": "https://news.ifeng.com/c/8rxhKnCdBj2",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时08分 ~ 19时50分]"
+          "appearance_count": 10,
+          "time_info": "[07时37分 ~ 21时12分]"
         },
         {
           "title": "科技巨头上”黑名单“！伊朗警告打击18家美企，Mag 7占六",
@@ -136,8 +165,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时54分 ~ 19时50分]"
+          "appearance_count": 16,
+          "time_info": "[03时54分 ~ 21时12分]"
         },
         {
           "title": "图解3月大事件：美以与伊朗冲突升级 贵州茅台宣布提价",
@@ -248,34 +277,6 @@
           "time_info": "[07时37分 ~ 15时16分]"
         },
         {
-          "title": "伊朗媒体称伊武装部队总参谋长顾问遇害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32868034",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时08分 ~ 19时50分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 33 天，当前局势如何？有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2022445055642792589",
-          "source": "知乎",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时37分 ~ 19时50分]"
-        },
-        {
           "title": "伊朗议会批准对霍尔木兹海峡征收通行费的法案",
           "url": "https://m.thepaper.cn/newsDetail_forward_32864882",
           "source": "澎湃新闻",
@@ -355,8 +356,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 19时50分]"
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 21时12分]"
         },
         {
           "title": "国际足联称伊朗将参加世界杯",
@@ -365,11 +366,12 @@
           "ranks": [
             7,
             13,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 19时50分]"
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 21时12分]"
         },
         {
           "title": "美以伊战争丨伊朗议长嘲讽鲁比奥：做啥“美国梦”呢",
@@ -378,9 +380,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时12分]"
+        },
+        {
+          "title": "伊朗副议长：目前最高领袖未批准任何谈判",
+          "url": "https://news.ifeng.com/c/8ryMBletFgE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时12分]"
         },
         {
           "title": "伊朗外交部发言人：“美国对外交并不认真”",
@@ -392,6 +405,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "伊朗愿在诉求满足下结束战争",
+          "url": "https://www.douyin.com/hot/2450674",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 21时12分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗中部的Sepid Dasht钢铁厂遭到美以袭击。",
@@ -453,17 +478,6 @@
           "time_info": "[10时08分 ~ 15时16分]"
         },
         {
-          "title": "伊朗副议长：目前最高领袖未批准任何谈判",
-          "url": "https://news.ifeng.com/c/8ryMBletFgE",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
           "title": "民调：三分之二的美国人认为，应尽快结束对伊朗的战争",
           "url": "https://flash.jin10.com/detail/20260401050726363800",
           "source": "金十数据",
@@ -519,6 +533,17 @@
           "time_info": "17时01分"
         },
         {
+          "title": "伊朗：打击行动造成以色列重大人员伤亡",
+          "url": "https://news.ifeng.com/c/8ryUhNJIkXI",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗穆巴拉克钢铁厂在美以空袭中遭到打击。",
           "url": "https://flash.jin10.com/detail/20260401041330115800",
           "source": "金十数据",
@@ -564,18 +589,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时37分 ~ 18时11分]"
-        },
-        {
-          "title": "伊朗愿在诉求满足下结束战争",
-          "url": "https://www.douyin.com/hot/2450674",
-          "source": "抖音",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时16分 ~ 19时50分]"
         },
         {
           "title": "美军使用钻地弹袭击伊朗大型弹药库",
@@ -785,6 +798,18 @@
           "time_info": "[01时54分 ~ 03时54分]"
         },
         {
+          "title": "伊朗总统和外长现身德黑兰街头",
+          "url": "https://www.toutiao.com/trending/7623335205407002175/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 21时12分]"
+        },
+        {
           "title": "俄方：伊朗最高领袖目前身在伊朗",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%9B%AE%E5%89%8D%E8%BA%AB%E5%9C%A8%E4%BC%8A%E6%9C%97",
           "source": "百度热搜",
@@ -809,6 +834,19 @@
           "time_info": "[10时08分 ~ 13时21分]"
         },
         {
+          "title": "伊朗总统和外长参加德黑兰民众集会",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%92%8C%E5%A4%96%E9%95%BF%E5%8F%82%E5%8A%A0%E5%BE%B7%E9%BB%91%E5%85%B0%E6%B0%91%E4%BC%97%E9%9B%86%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 21时12分]"
+        },
+        {
           "title": "伊朗战事终局有几种可能",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E7%BB%88%E5%B1%80%E6%9C%89%E5%87%A0%E7%A7%8D%E5%8F%AF%E8%83%BD",
           "source": "百度热搜",
@@ -831,6 +869,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时16分 ~ 17时01分]"
+        },
+        {
+          "title": "伊朗副议长称目前最高领袖未批准任何谈判，如何解读？美伊关系未来将如何发展？",
+          "url": "https://www.zhihu.com/question/2022729020421220020",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时12分]"
         },
         {
           "title": "俄大使：最高领袖穆杰塔巴目前身在伊朗",
@@ -939,18 +988,6 @@
           "time_info": "[05时36分 ~ 06时32分]"
         },
         {
-          "title": "伊朗总统和外长现身德黑兰街头",
-          "url": "https://www.toutiao.com/trending/7623335205407002175/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时50分]"
-        },
-        {
           "title": "伊朗将按计划在美国参加世界杯比赛",
           "url": "https://www.toutiao.com/trending/7622619005228498986/",
           "source": "今日头条",
@@ -963,16 +1000,15 @@
           "time_info": "[13时21分 ~ 15时16分]"
         },
         {
-          "title": "伊朗总统和外长参加德黑兰民众集会",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%92%8C%E5%A4%96%E9%95%BF%E5%8F%82%E5%8A%A0%E5%BE%B7%E9%BB%91%E5%85%B0%E6%B0%91%E4%BC%97%E9%9B%86%E4%BC%9A",
+          "title": "伊朗：目前最高领袖未批准任何谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%9C%AA%E6%89%B9%E5%87%86%E4%BB%BB%E4%BD%95%E8%B0%88%E5%88%A4",
           "source": "百度热搜",
           "ranks": [
-            13,
-            19
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时50分]"
+          "time_info": "[19时50分 ~ 21时12分]"
         },
         {
           "title": "美以再次袭击伊朗穆巴拉凯钢铁厂",
@@ -1043,17 +1079,6 @@
           "time_info": "[02时56分 ~ 02时57分]"
         },
         {
-          "title": "伊朗副议长称目前最高领袖未批准任何谈判，如何解读？美伊关系未来将如何发展？",
-          "url": "https://www.zhihu.com/question/2022729020421220020",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
           "title": "伊朗称打击沙特境内美军飞行员住所",
           "url": "https://flash.jin10.com/detail/20260401050431006800",
           "source": "金十数据",
@@ -1074,6 +1099,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "伊朗、真主党、胡塞武装联合袭击以色列",
+          "url": "https://www.cls.cn/detail/2332372",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "以色列总理内塔尼亚胡：伊朗政权迟早会垮台。",
@@ -1153,6 +1189,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "美以空袭美原驻伊朗使馆区域",
+          "url": "https://wallstreetcn.com/livenews/3080913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "欧洲央行行长公开驳斥美财长：伊朗战争的经济破坏绝非短暂",
           "url": "https://www.cls.cn/detail/2331432",
           "source": "财联社热门",
@@ -1181,9 +1228,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "世界杯上，美国和伊朗在这个情况下有望对打",
+          "url": "https://news.ifeng.com/c/8ryP49JmirY",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "澳大利亚国库部长查默斯：对于因伊朗局势紧张而无法满足税务要求的企业，澳大利亚税务局将提供临时纾困措施。",
@@ -1296,17 +1354,6 @@
           "time_info": "17时01分"
         },
         {
-          "title": "伊朗：目前最高领袖未批准任何谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%9B%AE%E5%89%8D%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%9C%AA%E6%89%B9%E5%87%86%E4%BB%BB%E4%BD%95%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
           "title": "据半岛电视台：伊朗外长表示，未来在与邻国重建信任方面将会面临诸多困难，但同时表示有信心能够克服这些困难。",
           "url": "https://flash.jin10.com/detail/20260401014643018800",
           "source": "金十数据",
@@ -1390,7 +1437,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -1456,7 +1503,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -1533,7 +1580,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -1555,7 +1602,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -1665,7 +1712,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -1703,6 +1750,28 @@
           "time_info": "18时11分"
         },
         {
+          "title": "伊朗称打击美预警机加油机部署",
+          "url": "https://wallstreetcn.com/livenews/3080891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "伊朗开展“真实承诺-4”第89轮行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%BC%80%E5%B1%95%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA-4%E2%80%9D%E7%AC%AC89%E8%BD%AE%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "以军称过去一天打击伊朗20处武器生产及研发设施",
           "url": "https://wallstreetcn.com/livenews/3080288",
           "source": "华尔街见闻-快讯",
@@ -1717,7 +1786,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 78,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -1755,6 +1824,18 @@
           "time_info": "[00时06分 ~ 06时32分]"
         },
         {
+          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
+          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时37分 ~ 21时12分]"
+        },
+        {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
           "url": "https://wallstreetcn.com/articles/3768886",
           "source": "华尔街见闻",
@@ -1767,18 +1848,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时06分 ~ 19时50分]"
-        },
-        {
-          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
-          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时37分 ~ 19时50分]"
         },
         {
           "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -1856,6 +1925,21 @@
           "time_info": "[00时06分 ~ 07时37分]"
         },
         {
+          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
+          "url": "https://wallstreetcn.com/articles/3768931",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时08分 ~ 21时12分]"
+        },
+        {
           "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
           "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
           "source": "澎湃新闻",
@@ -1892,20 +1976,6 @@
           "time_info": "[10时08分 ~ 15时16分]"
         },
         {
-          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
-          "url": "https://wallstreetcn.com/articles/3768931",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时08分 ~ 19时50分]"
-        },
-        {
           "title": "明早9点！白宫重磅预告：特朗普将就伊朗问题发表全国讲话",
           "url": "https://www.cls.cn/detail/2331621",
           "source": "财联社热门",
@@ -1917,6 +1987,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时21分 ~ 18时11分]"
+        },
+        {
+          "title": "马克龙访日暗讽特朗普",
+          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时12分]"
         },
         {
           "title": "战争烂尾，特朗普要跑了",
@@ -1966,17 +2047,6 @@
           "time_info": "[00时06分 ~ 19时50分]"
         },
         {
-          "title": "马克龙访日暗讽特朗普",
-          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
           "title": "特朗普将签署行政令限制邮寄选票",
           "url": "https://flash.jin10.com/detail/20260401052146266800",
           "source": "金十数据",
@@ -1988,6 +2058,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "获美国总统特朗普之子支持的无人机公司正游说阿联酋达成武器交易。",
+          "url": "https://flash.jin10.com/detail/20260401204109725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "特朗普称将在“两到三周”内结束伊朗战事",
           "url": "https://wallstreetcn.com/livenews/3080402",
           "source": "华尔街见闻-快讯",
@@ -1997,6 +2078,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时59分 ~ 21时12分]"
         },
         {
           "title": "特朗普被曝希望快速结束战争",
@@ -2084,18 +2177,6 @@
           "time_info": "[06时32分 ~ 07时37分]"
         },
         {
-          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时59分 ~ 19时50分]"
-        },
-        {
           "title": "白宫称特朗普将就伊朗问题发表讲话",
           "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E5%AE%AB%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%B0%B1%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D",
           "source": "bilibili 热搜",
@@ -2154,6 +2235,18 @@
           "time_info": "[13时21分 ~ 15时16分]"
         },
         {
+          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时12分]"
+        },
+        {
           "title": "特朗普将发表全国讲话，就伊朗问题发布“重要更新”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32869490",
           "source": "澎湃新闻",
@@ -2209,6 +2302,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "特朗普称伊朗请求美国停火",
+          "url": "https://www.toutiao.com/trending/7623249911446224902/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "特朗普考虑召集特别会议 解决国土安全部资金危机",
           "url": "https://flash.jin10.com/detail/20260331235446821800",
           "source": "金十数据",
@@ -2251,6 +2355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "特朗普：伊朗已向美国请求停火",
+          "url": "https://www.douyin.com/hot/2451793",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "特朗普表态引爆欧股期指跳涨 和平进程仍扑朔迷离",
@@ -2308,6 +2423,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "英国首相回应特朗普要退出北约",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E9%80%80%E5%87%BA%E5%8C%97%E7%BA%A6%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美总统特朗普签署行政令，限制邮寄投票",
           "url": "https://wallstreetcn.com/livenews/3080423",
           "source": "华尔街见闻-快讯",
@@ -2325,7 +2451,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -2396,17 +2522,6 @@
           "time_info": "13时21分"
         },
         {
-          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
           "title": "美国总统特朗普：美联储主席鲍威尔必须尽快离职。",
           "url": "https://flash.jin10.com/detail/20260401055745078800",
           "source": "金十数据",
@@ -2427,6 +2542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "特朗普称将出席美最高法院“出生公民权”听证会口头辩论",
+          "url": "https://wallstreetcn.com/livenews/3080901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "美国总统特朗普：在两到三周内，我们将离开伊朗。",
@@ -2564,8 +2690,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时37分 ~ 21时12分]"
+        },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
           "url": "https://wallstreetcn.com/articles/3768819",
@@ -2578,17 +2715,6 @@
           "time_info": "[00时06分 ~ 06时32分]"
         },
         {
-          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时37分 ~ 19时50分]"
-        },
-        {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
@@ -2598,8 +2724,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时31分 ~ 19时50分]"
+          "appearance_count": 12,
+          "time_info": "[06时31分 ~ 21时12分]"
         },
         {
           "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
@@ -2725,6 +2851,17 @@
           "time_info": "[10时08分 ~ 10时09分]"
         },
         {
+          "title": "美元指数短线小幅走低，现报99.51。美股期货短线小幅走低，纳斯达克100指数期货涨幅收窄至0.9%。美国10年期国债收益率短线拉升，现报4.292%。现货黄金短线拉升约7美元，现报4743.31美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3080918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美股创下去年5月以来的最大单日涨幅 月线仍跌约5%",
           "url": "https://flash.jin10.com/detail/20260401040945485800",
           "source": "金十数据",
@@ -2780,6 +2917,17 @@
           "time_info": "06时32分"
         },
         {
+          "title": "美国3月ADP就业数据公布后，美元指数、美股期货短线波动不大",
+          "url": "https://wallstreetcn.com/livenews/3080904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "抄底买家要当心？顶级经济学家警告：务必避开美股大盘！",
           "url": "https://flash.jin10.com/detail/20260401143225343800",
           "source": "金十数据",
@@ -2818,6 +2966,113 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "交易员称美股本轮劲扬主要由空头回补所致 并非伊朗和平前景",
+          "url": "https://wallstreetcn.com/livenews/3080893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 06时32分]"
+        },
+        {
+          "title": "美国10年期国债收益率短线从4.29%下方拉升至4.32%上方，日内整体跌幅收窄至不足2.8个基点，月末、季度末成交量突出。 30年期美债收益率从4.87%附近的日低反抽，转而涨至4.9213%刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3080359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时36分]"
+        },
+        {
+          "title": "在零售销售数据公布后，两年期美债收益率小幅上扬，但日内仍处于下跌态势，跌幅1.4个基点，现报3.785%。",
+          "url": "https://flash.jin10.com/detail/20260401203542184800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "最重要的变化？美债“脱钩”，市场嗅到了“全球财政刺激”的味道",
+          "url": "https://wallstreetcn.com/articles/3768816",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "2/10年期美债收益率周二跌超3个基点，两年期美债收益率在3月份累涨约42个基点",
+          "url": "https://wallstreetcn.com/livenews/3080394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "美债涨幅收窄，此前2月零售销售数据超出预期。",
+          "url": "https://flash.jin10.com/detail/20260401203258836800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "瑞穗证券：如果伊朗局势趋稳 美债收益率的风险溢价有望进一步收窄",
+          "url": "https://wallstreetcn.com/livenews/3080740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "美债及欧洲国债全线上扬 市场猜测伊朗冲突或将很快结束",
+          "url": "https://wallstreetcn.com/livenews/3080732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -2909,80 +3164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 06时32分]"
-        },
-        {
-          "title": "美国10年期国债收益率短线从4.29%下方拉升至4.32%上方，日内整体跌幅收窄至不足2.8个基点，月末、季度末成交量突出。 30年期美债收益率从4.87%附近的日低反抽，转而涨至4.9213%刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3080359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时36分]"
-        },
-        {
-          "title": "最重要的变化？美债“脱钩”，市场嗅到了“全球财政刺激”的味道",
-          "url": "https://wallstreetcn.com/articles/3768816",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "2/10年期美债收益率周二跌超3个基点，两年期美债收益率在3月份累涨约42个基点",
-          "url": "https://wallstreetcn.com/livenews/3080394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "瑞穗证券：如果伊朗局势趋稳 美债收益率的风险溢价有望进一步收窄",
-          "url": "https://wallstreetcn.com/livenews/3080740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "美债及欧洲国债全线上扬 市场猜测伊朗冲突或将很快结束",
-          "url": "https://wallstreetcn.com/livenews/3080732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
         }
       ]
     },
