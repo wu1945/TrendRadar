@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T20:01:56.838642+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-04-16T22:04:56.411610+08:00",
+  "total_titles_processed": 1686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 109,
+      "match_count": 122,
       "titles": [
         {
           "title": "内塔尼亚胡：对伊朗战事可能再度爆发",
@@ -132,6 +132,20 @@
           "time_info": "[10时11分 ~ 15时26分]"
         },
         {
+          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
+          "url": "https://www.zhihu.com/question/2027115873823973436",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时11分 ~ 22时04分]"
+        },
+        {
           "title": "伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁，能破解美国围堵吗？",
           "url": "https://www.zhihu.com/question/2027778593300719600",
           "source": "知乎",
@@ -143,6 +157,17 @@
           "time_info": "[00时59分 ~ 07时39分]"
         },
         {
+          "title": "伊朗：将就官员被暗杀追究美以责任",
+          "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时59分 ~ 22时04分]"
+        },
+        {
           "title": "美以袭击伊朗进入第 48 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2027874423894533456",
           "source": "知乎",
@@ -152,6 +177,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时11分 ~ 20时01分]"
+        },
+        {
+          "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
+          "url": "https://v.ifeng.com/c/8sN5mIzhL68",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时59分 ~ 22时04分]"
         },
         {
           "title": "伊朗美制通信设备遇袭时集体失灵",
@@ -167,20 +203,6 @@
           "time_info": "[02时07分 ~ 07时39分]"
         },
         {
-          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
-          "url": "https://www.zhihu.com/question/2027115873823973436",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时11分 ~ 20时01分]"
-        },
-        {
           "title": "美国被曝将向中东增派数千名士兵，施压伊朗达成协议",
           "url": "https://news.ifeng.com/c/8sLqRxtsfNo",
           "source": "凤凰网",
@@ -192,17 +214,6 @@
           "time_info": "[00时59分 ~ 02时08分]"
         },
         {
-          "title": "伊朗：将就官员被暗杀追究美以责任",
-          "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时59分 ~ 20时01分]"
-        },
-        {
           "title": "伊朗军方回应美海上封锁",
           "url": "https://news.ifeng.com/c/8sLez9SCcb1",
           "source": "凤凰网",
@@ -212,17 +223,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 02时08分]"
-        },
-        {
-          "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
-          "url": "https://v.ifeng.com/c/8sN5mIzhL68",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时59分 ~ 20时01分]"
         },
         {
           "title": "伊朗警告美持续封锁是破坏停火前奏",
@@ -239,6 +239,21 @@
           "time_info": "[04时01分 ~ 07时39分]"
         },
         {
+          "title": "美伊“海上封锁战”白热化：伊朗威胁若美封锁持续将切断红海航道",
+          "url": "https://www.cls.cn/detail/2345830",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 22时04分]"
+        },
+        {
           "title": "伊朗战争丨王毅同伊朗外长通电话",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -248,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "霍尔木兹海峡通行费拟通过伊朗银行支付。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3089412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "伊朗总统N连问美国",
@@ -396,18 +422,18 @@
           "time_info": "07时39分"
         },
         {
-          "title": "美伊“海上封锁战”白热化：伊朗威胁若美封锁持续将切断红海航道",
-          "url": "https://www.cls.cn/detail/2345830",
-          "source": "财联社热门",
+          "title": "伊朗总统感谢中国",
+          "url": "https://www.toutiao.com/trending/7628829127155826738/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            7,
             6,
-            8
+            7,
+            8,
+            25
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时26分 ~ 20时01分]"
+          "time_info": "[17时15分 ~ 22时04分]"
         },
         {
           "title": "据巴基斯坦官员透露，美国与伊朗会谈料将于下周重返巴基斯坦。（MS Now）",
@@ -443,6 +469,19 @@
           "time_info": "19时00分"
         },
         {
+          "title": "伊朗：美国成以色列“第七个行政区”",
+          "url": "https://www.toutiao.com/trending/7628284506704805939/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 22时04分]"
+        },
+        {
           "title": "【伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果】伊朗伊斯兰议会议长卡利巴夫16日通过社交媒体发表声明称，黎巴嫩全面停火协议的达成与巩固，归功于真主党的英勇抵抗和“抵抗之弧”力量的团结。卡利巴夫指出，美国必须严格遵守相关协议。他强调，无论是在战争时期还是停火阶段，伊朗与抵抗力量始终有着共同的意志。卡利巴夫同时呼吁，美国应当反思其外交政策，纠正“以色列优先”的错误立场，从这一错误路线中撤回。（央视）",
           "url": "https://wallstreetcn.com/livenews/3088792",
           "source": "华尔街见闻-快讯",
@@ -466,19 +505,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时48分 ~ 07时39分]"
-        },
-        {
-          "title": "伊朗总统感谢中国",
-          "url": "https://www.toutiao.com/trending/7628829127155826738/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 20时01分]"
         },
         {
           "title": "伊朗或考虑允许船只通航霍尔木兹海峡阿曼一侧",
@@ -562,18 +588,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时11分 ~ 15时26分]"
-        },
-        {
-          "title": "伊朗：美国成以色列“第七个行政区”",
-          "url": "https://www.toutiao.com/trending/7628284506704805939/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 20时01分]"
         },
         {
           "title": "伊朗：美国已成以色列“第7个行政区”",
@@ -730,6 +744,18 @@
           "time_info": "[06时38分 ~ 07时39分]"
         },
         {
+          "title": "伊朗称将就官员被暗杀追究美以责任",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E5%B0%B1%E5%AE%98%E5%91%98%E8%A2%AB%E6%9A%97%E6%9D%80%E8%BF%BD%E7%A9%B6%E7%BE%8E%E4%BB%A5%E8%B4%A3%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 22时04分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗和巴基斯坦将于周四在德黑兰详细讨论自周日以来伊朗与美国之间交换的信息。",
           "url": "https://flash.jin10.com/detail/20260416043053830800",
           "source": "金十数据",
@@ -864,6 +890,17 @@
           "time_info": "15时26分"
         },
         {
+          "title": "伊朗告诉巴基斯坦，美国必须履行承诺，必须放弃“过分的要求”。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3089403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "美国财长贝森特：美国已要求冻结伊朗革命卫队的资金以及伊朗领导层的资金。",
           "url": "https://flash.jin10.com/detail/20260416014451571800",
           "source": "金十数据",
@@ -908,6 +945,28 @@
           "time_info": "02时08分"
         },
         {
+          "title": "据伊朗媒体PressTV：胡塞武装抨击贝鲁特及某些阿拉伯政权，指责其将责任归咎于抵抗运动而非犹太复国主义的侵略。",
+          "url": "https://flash.jin10.com/detail/20260416214200699800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "据伊朗媒体PressTV：胡塞武装表示，美国向犹太复国主义敌人提供的武器对地区国家乃至整个世界造成的危害最大。",
+          "url": "https://flash.jin10.com/detail/20260416214124693800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "经济学家：伊朗战争的影响料将在美国4月进口价格数据中体现出来",
           "url": "https://wallstreetcn.com/livenews/3088666",
           "source": "华尔街见闻-快讯",
@@ -941,6 +1000,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "据伊朗媒体PressTV：胡塞武装表示，面对犹太复国主义敌人的肆意、罪恶的侵略行径，“抵抗轴心”绝不会保持沉默。",
+          "url": "https://flash.jin10.com/detail/20260416214038508800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "瑞士百达管理合伙人称伊朗战争已推动财富流入欧洲",
           "url": "https://wallstreetcn.com/livenews/3088665",
           "source": "华尔街见闻-快讯",
@@ -952,15 +1022,15 @@
           "time_info": "00时59分"
         },
         {
-          "title": "伊朗称将就官员被暗杀追究美以责任",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E5%B0%B1%E5%AE%98%E5%91%98%E8%A2%AB%E6%9A%97%E6%9D%80%E8%BF%BD%E7%A9%B6%E7%BE%8E%E4%BB%A5%E8%B4%A3%E4%BB%BB",
+          "title": "美方对伊朗启动“经济狂怒”行动",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%90%AF%E5%8A%A8%E2%80%9C%E7%BB%8F%E6%B5%8E%E7%8B%82%E6%80%92%E2%80%9D%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时01分"
+          "time_info": "22时04分"
         },
         {
           "title": "据半岛电视台：一名来自黎巴嫩的高层消息人士表示，伊朗以及其他参与伊斯兰堡谈判的各方曾试图将黎巴嫩纳入当前的停火协议之中。该消息人士认为，伊朗对霍尔木兹海峡的控制可能为其提供足够筹码，从而迫使以色列和美国同意在黎巴嫩实现停火。",
@@ -1029,6 +1099,17 @@
           "time_info": "17时15分"
         },
         {
+          "title": "据伊朗媒体PressTV：胡塞武装表示，许多欧盟国家意识到，美国与犹太人的侵略行为将会对全球经济产生负面影响。",
+          "url": "https://flash.jin10.com/detail/20260416213946729800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "西方国家加大对美国的施压力度：多国财长联合发声，警告伊朗战争拖累全球经济",
           "url": "https://wallstreetcn.com/livenews/3088662",
           "source": "华尔街见闻-快讯",
@@ -1060,6 +1141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "美军高官称将对违抗伊朗港口“封锁令”的船只动用武力",
+          "url": "https://wallstreetcn.com/livenews/3089395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "美国财长贝森特：一直在与中东地区对口官员就伊朗石油危机进行会谈。中东对口官员表示，一旦霍尔木兹海峡开放，他们可以立即开始运输石油。",
@@ -1123,9 +1215,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：自（美国）海上封锁行动开始以来，伊朗的油轮已通过阿曼海向目的地运送了1100万桶石油。",
+          "url": "https://flash.jin10.com/detail/20260416213701566800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "伊朗首都突发炸弹袭击",
@@ -1148,6 +1251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：新的谈判若没有先确定框架则毫无意义。",
+          "url": "https://flash.jin10.com/detail/20260416213518742800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "伊朗军方回应美国海上封锁",
@@ -1183,6 +1297,28 @@
           "time_info": "15时26分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗（向巴基斯坦）强调，美国必须放弃“过分的要求”。",
+          "url": "https://flash.jin10.com/detail/20260416213239944800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗向巴基斯坦方面表示，美国必须履行承诺。",
+          "url": "https://flash.jin10.com/detail/20260416213203707800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "伊朗称“12日战争”后自杀式无人机产量已提升约10倍",
           "url": "https://flash.jin10.com/detail/20260416164552093800",
           "source": "金十数据",
@@ -1211,9 +1347,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
+        },
+        {
+          "title": "美防长称伊朗最高领袖“已受伤但仍活着”",
+          "url": "https://wallstreetcn.com/livenews/3089384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "伊朗外交部发言人：伊美是否延长停火无法确认",
@@ -1255,7 +1402,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         }
@@ -1263,7 +1410,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -1379,6 +1526,17 @@
           "time_info": "[00时59分 ~ 10时11分]"
         },
         {
+          "title": "伊朗战争丨特朗普将制裁购买伊朗石油国家？中方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 22时04分]"
+        },
+        {
           "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
           "url": "https://wallstreetcn.com/articles/3770050",
           "source": "华尔街见闻",
@@ -1390,17 +1548,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时11分 ~ 20时01分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普将制裁购买伊朗石油国家？中方回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 20时01分]"
         },
         {
           "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
@@ -1421,11 +1568,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 20时01分]"
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 22时04分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -1438,6 +1586,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时59分 ~ 06时38分]"
+        },
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 22时04分]"
         },
         {
           "title": "特朗普称将对购买伊朗石油的国家实施制裁，外交部回应",
@@ -1479,9 +1640,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
+        },
+        {
+          "title": "特朗普就访华明确表态，中方回应",
+          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 22时04分]"
         },
         {
           "title": "美国总统特朗普将于周五在凤凰城讲话。",
@@ -1494,30 +1667,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 20时01分]"
-        },
-        {
-          "title": "特朗普就访华明确表态，中方回应",
-          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 20时01分]"
         },
         {
           "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
@@ -1552,6 +1701,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
+          "url": "https://news.ifeng.com/c/8sNNVO5nsfP",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "特朗普“封锁令”影响几何？分析：若石油出口完全断流 伊朗最多两月后须减产！",
@@ -1689,7 +1860,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -1790,6 +1961,50 @@
           "time_info": "[05时48分 ~ 06时38分]"
         },
         {
+          "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨近2%",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
+          "url": "https://wallstreetcn.com/articles/3770123",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260416214246580800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "美股三大指数开盘走高，道指涨0.16%，标普500指数涨0.2%，纳指涨0.17%。甲骨文涨超3%，公司宣布与AWS合作。核电股普涨，Oklo涨超8%，Nano Nuclear Energy涨超6%。台积电跌超1%，此前发布一季度业绩。雅培下跌4.5%，创下2023年以来最低盘中水平。“硅谷足力健”Allbirds开盘跌17%，此前曾飙升582%。",
+          "url": "https://wallstreetcn.com/livenews/3089402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "纽约梅隆银行第一季度调整后营收54.1亿美元，预期51.8亿美元。 第一季度调整后每股收益2.25美元，预期1.92美元。 纽约梅隆银行美股盘前涨1%。",
           "url": "https://wallstreetcn.com/livenews/3089243",
           "source": "华尔街见闻-快讯",
@@ -1856,6 +2071,17 @@
           "time_info": "05时48分"
         },
         {
+          "title": "美股开盘，道指涨0.16%，标普500指数涨0.2%，纳指涨0.17%。台积电(TSM.N)开跌1.82%，其第一季度利润大增58%，公司预计第二季度营收为390亿至402亿美元；甲骨文(ORCL.N)开涨3.35%，此前公司宣布与亚马逊云服务合作。",
+          "url": "https://flash.jin10.com/detail/20260416213037420800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "美股收盘：标普500、纳指创新高 特斯拉涨逾7%",
           "url": "https://flash.jin10.com/detail/20260416040118406800",
           "source": "金十数据",
@@ -1870,7 +2096,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "欧盟提案要求谷歌向AI竞争对手共享搜索数据",
@@ -1879,7 +2105,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         },
@@ -1903,7 +2129,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         },
@@ -1939,6 +2165,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "据The Information，谷歌与五角大楼讨论机密人工智能合作协议，洽谈使用Gemini模型，重建与军方关系。",
+          "url": "https://wallstreetcn.com/livenews/3089379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数15日下跌",
+          "url": "https://flash.jin10.com/detail/20260416044116972800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时38分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF收涨4.40%，报82.98美元。 纳斯达克网络安全ETF收涨2.76%，ETFMG网络安全ETF收涨3.36%。",
+          "url": "https://wallstreetcn.com/livenews/3088777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时38分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF一度上涨2.83%，报85.33美元。",
+          "url": "https://wallstreetcn.com/livenews/3089410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.00%，暂报2586.28点，北京时间03:26跌至2493.84点，随后持续上扬。 MarketVectorTM数字资产100中盘指数涨0.75%，报2788.46点，整体呈现出W形反转。 MarketVector数字资产100指数跌0.58%，报14776.01点。 目前，Solana涨0.70%，狗狗币涨1.73%，XRP涨1.43%。 比特币跌0.41%，暂报73948.86美元；以太坊涨1.16%，暂报2341.14美元。",
+          "url": "https://wallstreetcn.com/livenews/3088683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
         }
       ]
     },
@@ -1983,7 +2272,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         }
@@ -2025,47 +2314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数15日下跌",
-          "url": "https://flash.jin10.com/detail/20260416044116972800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时38分]"
-        },
-        {
-          "title": "北美科技软件股指数ETF收涨4.40%，报82.98美元。 纳斯达克网络安全ETF收涨2.76%，ETFMG网络安全ETF收涨3.36%。",
-          "url": "https://wallstreetcn.com/livenews/3088777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时38分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.00%，暂报2586.28点，北京时间03:26跌至2493.84点，随后持续上扬。 MarketVectorTM数字资产100中盘指数涨0.75%，报2788.46点，整体呈现出W形反转。 MarketVector数字资产100指数跌0.58%，报14776.01点。 目前，Solana涨0.70%，狗狗币涨1.73%，XRP涨1.43%。 比特币跌0.41%，暂报73948.86美元；以太坊涨1.16%，暂报2341.14美元。",
-          "url": "https://wallstreetcn.com/livenews/3088683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
         }
       ]
     },
