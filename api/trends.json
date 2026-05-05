@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-05T07:52:11.847935+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-05-05T10:25:44.936139+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
-        {
-          "title": "阿联酋国防部：监测到4枚来自伊朗的巡航导弹",
-          "url": "https://news.ifeng.com/c/8srWDitckoB",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时52分]"
-        },
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
           "url": "https://www.cls.cn/detail/2362210",
@@ -26,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 10时25分]"
         },
         {
           "title": "幕后外交密集进行，伊朗：已收到美国回应，正在审查",
           "url": "https://news.ifeng.com/c/8srXoK6rymX",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 10时25分]"
         },
         {
           "title": "美计划在中东部署“暗鹰”高超音速导弹，伊朗有办法对付吗？",
@@ -46,6 +36,17 @@
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 10时25分]"
+        },
+        {
+          "title": "阿联酋国防部：监测到4枚来自伊朗的巡航导弹",
+          "url": "https://news.ifeng.com/c/8srWDitckoB",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -67,11 +68,37 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%86%9B%E8%88%B0%E9%81%AD%E5%AF%BC%E5%BC%B9%E6%94%BB%E5%87%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 10时25分]"
+        },
+        {
+          "title": "伊媒：美舰在霍尔木兹海峡附近遭伊朗导弹攻击，被迫返航",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33097368",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 10时25分]"
+        },
+        {
+          "title": "伊朗称2枚导弹击中美军舰",
+          "url": "https://www.douyin.com/hot/2488612",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 10时25分]"
         },
         {
           "title": "伊朗：发射两枚导弹击中美国军舰",
@@ -98,30 +125,6 @@
           "time_info": "[01时43分 ~ 07时52分]"
         },
         {
-          "title": "伊媒：美舰在霍尔木兹海峡附近遭伊朗导弹攻击，被迫返航",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33097368",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时52分]"
-        },
-        {
-          "title": "伊朗称2枚导弹击中美军舰",
-          "url": "https://www.douyin.com/hot/2488612",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时52分]"
-        },
-        {
           "title": "伊朗：对美驱逐舰进行警告射击",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%AF%B9%E7%BE%8E%E9%A9%B1%E9%80%90%E8%88%B0%E8%BF%9B%E8%A1%8C%E8%AD%A6%E5%91%8A%E5%B0%84%E5%87%BB",
           "source": "百度热搜",
@@ -133,6 +136,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时43分 ~ 06时56分]"
+        },
+        {
+          "title": "伊朗战争丨伊方：美军袭击民用船只致5人死亡",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "伊朗：如果阿联酋“采取不理智的行动”，其所有利益“都将成为伊朗的目标”、任何设施“都不会安全”",
@@ -172,11 +186,12 @@
           "url": "https://wallstreetcn.com/livenews/3098669",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时25分]"
         },
         {
           "title": "伊朗称2枚导弹击中美军舰，国际油价直线拉升",
@@ -201,6 +216,18 @@
           "time_info": "[03时23分 ~ 05时05分]"
         },
         {
+          "title": "美以袭击伊朗进入第 67 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2034766994671494088",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 10时25分]"
+        },
+        {
           "title": "伊朗向美军舰发射导弹",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E5%86%9B%E8%88%B0%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9",
           "source": "百度热搜",
@@ -210,17 +237,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 03时24分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 67 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2034766994671494088",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
           "title": "以媒：美以权衡对伊朗实施打击",
@@ -306,6 +322,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "伊朗军方消息人士：美军袭击民用船只致5人死亡",
+          "url": "https://wallstreetcn.com/livenews/3098692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "伊朗警告阿联酋勿当以色列棋子",
           "url": "https://flash.jin10.com/detail/20260505025751256800",
           "source": "金十数据",
@@ -326,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆：我们无需在伊朗派遣地面部队。",
+          "url": "https://flash.jin10.com/detail/20260505100033715800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "美国纽约联储主席（在职时享有FOMC永久投票权，号称美联储三把手）威廉姆斯：在伊朗战争造成不确定性期间，利率政策准备就绪。 劳动力市场数据值得持续的密切关注。 剔除进口、能源的基础通胀迄今是稳定的。 基本假设是，2026年通胀大约为3%，2027年为2%；长期通胀预期被牢牢锚定。 预计2026年GDP将增长2%-2.25%，失业率为4.25%-4.50%。",
@@ -356,7 +394,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -403,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗重申对霍尔木兹海峡主导权",
+          "url": "https://flash.jin10.com/detail/20260505094958610800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军方消息人士表示，如果阿联酋对伊朗采取“愚蠢”的行动，阿联酋的所有利益将成为伊朗的目标。",
@@ -507,7 +556,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -540,8 +589,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 10时25分]"
         },
         {
           "title": "美财长保证特朗普访华不会再推迟",
@@ -583,7 +632,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -622,6 +671,17 @@
           "time_info": "05时05分"
         },
         {
+          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
+          "url": "https://wallstreetcn.com/articles/3771548",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "特朗普呼吁韩国加入霍尔木兹海峡行动",
           "url": "https://flash.jin10.com/detail/20260505013344120800",
           "source": "金十数据",
@@ -649,11 +709,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 10时25分]"
         },
         {
           "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
@@ -661,11 +722,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 10时25分]"
+        },
+        {
+          "title": "特朗普：美国正从委内瑞拉攫取“数亿桶石油”",
+          "url": "https://wallstreetcn.com/livenews/3098663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 10时25分]"
         },
         {
           "title": "美国总统特朗普：伊朗战争可能还会持续两到三周。",
@@ -674,18 +749,6 @@
           "ranks": [
             5,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时52分]"
-        },
-        {
-          "title": "特朗普：美国正从委内瑞拉攫取“数亿桶石油”",
-          "url": "https://wallstreetcn.com/livenews/3098663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -749,6 +812,28 @@
           "time_info": "01时43分"
         },
         {
+          "title": "日本怂恿特朗普访华途中访日",
+          "url": "https://www.toutiao.com/trending/7635392980899069998/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "美国总统特朗普：“太迟先生”（即美联储主席鲍威尔）对美国来说是一个灾难！利率太高！",
           "url": "https://flash.jin10.com/detail/20260505025502450800",
           "source": "金十数据",
@@ -769,6 +854,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "特朗普未明言伊朗违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3098681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "美国总统特朗普：除韩国船只外，截至目前，通过海峡的船只尚未出现损失。",
@@ -799,7 +895,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -906,7 +1002,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -917,8 +1013,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 10时25分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
@@ -968,6 +1064,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时05分 ~ 06时56分]"
+        },
+        {
+          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
+          "url": "https://www.cls.cn/detail/2362725",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元。 一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元。 一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。 预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72.0亿美元。 Palantir美股盘后涨2%。",
@@ -1020,7 +1127,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
@@ -1038,8 +1145,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 07时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 10时25分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
@@ -1117,8 +1224,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 10时25分]"
         },
         {
           "title": "2/10年期美债收益率涨约7个基点",
