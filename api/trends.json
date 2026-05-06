@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T02:13:36.983614+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-05-07T04:19:12.607798+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗战争丨“若美方不作出必要让步，已准备好开火”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "以军总参谋长：在伊朗仍有一系列目标尚待打击",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "伊朗最大岛屿传出巨响",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐会谈",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐会谈",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "美军：一艘伊朗船试图突破封锁 美战机炸坏船舵",
@@ -69,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -103,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "知情人士：白宫认为与伊朗接近达成停战谅解备忘录",
@@ -114,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "知情人：伊朗将同意将铀浓缩材料运出",
@@ -123,11 +123,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "伊朗外长访华为何引发世界关注",
@@ -138,8 +139,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "伊朗：若美方不让步 已准备好开火",
@@ -149,8 +150,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
+        },
+        {
+          "title": "伊朗赞赏中方始终站在历史正确一边",
+          "url": "https://www.toutiao.com/trending/7636368072584544298/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "伊朗议长卡利巴夫：军事袭击的可能性并不低。 “敌人”寄希望于施加经济压力。",
@@ -181,7 +194,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -192,7 +205,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -203,20 +216,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "伊朗赞赏中方始终站在历史正确一边",
-          "url": "https://www.toutiao.com/trending/7636368072584544298/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "02时13分"
         },
         {
           "title": "以军总参谋长：随时准备重启对伊朗军事行动",
@@ -236,7 +238,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -247,7 +249,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -258,7 +260,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -280,7 +282,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -291,9 +293,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "伊朗官员称目前该国石化产品供应充足",
+          "url": "https://wallstreetcn.com/livenews/3099529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "伊朗常驻联合国代表团提出解决霍尔木兹海峡问题的可行方案",
@@ -302,7 +315,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -313,9 +326,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "伊朗总统：对美不信任源于美方的敌对行为",
+          "url": "https://wallstreetcn.com/livenews/3099523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "伊朗国防部发言人：美国必须和以色列保持距离",
@@ -324,7 +348,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -346,7 +370,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -365,7 +389,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -376,8 +400,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "特朗普称对伊行动“进展顺利” 强调封锁与谈判并行",
@@ -386,7 +410,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -397,9 +421,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "【巴基斯坦消息人士：美伊接近达成停战谅解备忘录】据美国方面消息，一名巴基斯坦消息人士6日表示，美国和伊朗正接近达成一份旨在结束战争的谅解备忘录。同一天，据披露，两名美国官员及另外两名知情人士透露，特朗普政府认为，与伊朗接近达成一份一页的谅解备忘录。该备忘录旨在结束战争，并为更详细的核问题谈判设定框架。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3099548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "消息人士透露，以色列总理内塔尼亚胡将于周三与特朗普政府官员举行会谈，以便更好地了解美伊谈判的最新进展。",
@@ -419,9 +454,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "特朗普再称对美伊达成协议表示乐观",
+          "url": "https://wallstreetcn.com/livenews/3099545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "为什么特朗普“不得不”常买中国货",
@@ -431,8 +477,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "特朗普称暂停“自由计划”行动",
@@ -440,11 +486,24 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 04时19分]"
         },
         {
           "title": "美国总统特朗普：美国在太空领域遥遥领先。",
@@ -453,9 +512,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "特朗普：伊朗已同意不拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3099542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "美国总统特朗普：我们将从伊朗获取浓缩铀。",
@@ -464,7 +534,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -475,7 +545,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -497,9 +567,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "特朗普：美伊“很有可能”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3099538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "特朗普：即使石油价格涨到200美元，也值得",
+          "url": "https://wallstreetcn.com/livenews/3099535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "美国总统特朗普：伊朗希望达成一份协议。",
@@ -508,7 +600,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -519,18 +611,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -552,7 +633,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -568,13 +649,24 @@
           "time_info": "00时02分"
         },
         {
+          "title": "据福克斯新闻，美国总统特朗普对与伊朗问题的框架持乐观态度。在被问及对伊朗行动时间表时，特朗普回应称“一周”。 标普500指数目前涨超1.2%，道指涨572点、涨幅1.1%，纳指涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3099521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：美国总统特朗普和我一致认为，伊朗最重要的目标是消除所有浓缩铀并拆除伊朗的浓缩能力。",
           "url": "https://flash.jin10.com/detail/20260507010013759800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -585,7 +677,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         }
@@ -593,7 +685,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -603,8 +695,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -612,11 +704,23 @@
           "source": "知乎",
           "ranks": [
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
+        },
+        {
+          "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2364164",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 04时19分]"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股盘中）",
@@ -625,7 +729,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -636,20 +740,53 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
         {
-          "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2364164",
-          "source": "财联社热门",
+          "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260507040528145800",
+          "source": "金十数据",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "04时19分"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260507040519442800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "美股收盘：英伟达市值重回5万亿 金龙指数涨3.4%",
+          "url": "https://flash.jin10.com/detail/20260507040122273800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
+          "url": "https://wallstreetcn.com/livenews/3099520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "美股中概股大涨 百度涨超7%",
@@ -658,7 +795,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         }
@@ -674,11 +811,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
         },
         {
           "title": "梁文锋留住97%员工",
@@ -687,7 +825,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -701,6 +839,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
+          "url": "https://www.zhihu.com/question/2035283954274493764",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
+        },
+        {
+          "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
+          "url": "https://wallstreetcn.com/livenews/3099536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         }
       ]
     },
@@ -722,24 +889,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
-          "url": "https://www.zhihu.com/question/2035283954274493764",
-          "source": "知乎",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -751,8 +900,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2/10年期美债收益率跌超7个基点，追随国际油价下跌的表现",
+          "url": "https://wallstreetcn.com/livenews/3099537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（5月6日）纽约尾盘，ICE美元指数跌0.52%，报97.980点，日内交投区间为98.50-97.62点。",
+          "url": "https://wallstreetcn.com/livenews/3099539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         }
       ]
     }
