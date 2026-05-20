@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-20T08:02:00.444508+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-05-20T12:08:50.617940+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
+          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 12时08分]"
+        },
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
           "url": "https://wallstreetcn.com/articles/3772569",
@@ -30,24 +42,13 @@
           "time_info": "[02时02分 ~ 08时02分]"
         },
         {
-          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
-          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 08时02分]"
-        },
-        {
           "title": "万斯为特朗普超长交易清单辩护",
           "url": "https://flash.jin10.com/detail/20260520075009273800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -93,9 +94,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
+          "url": "https://www.cls.cn/detail/2376144",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美媒：特朗普或在生日期间出席法国G7峰会",
@@ -104,7 +116,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -115,7 +127,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -147,11 +159,12 @@
           "url": "https://www.cls.cn/detail/2375999",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时08分]"
         },
         {
           "title": "为何特朗普抛涉台“四不”说法",
@@ -204,7 +217,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -215,7 +228,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -226,7 +239,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -237,7 +250,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -275,6 +288,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "美禁止审计特朗普过往纳税申报表",
+          "url": "https://www.toutiao.com/trending/7641650868902887474/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "据美国财经媒体Semafor：特朗普放弃要求银行收集公民身份信息的计划。",
           "url": "https://flash.jin10.com/detail/20260520042843664800",
           "source": "金十数据",
@@ -289,18 +313,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
           "url": "https://wallstreetcn.com/articles/3772658",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时08分]"
         },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -337,6 +362,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
+          "url": "https://www.cls.cn/detail/2376057",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "谷歌宣布推出Gemini Omni模型用于视频生成和编辑。",
           "url": "https://flash.jin10.com/detail/20260520011821368800",
           "source": "金十数据",
@@ -353,11 +389,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时28分 ~ 08时02分]"
+          "appearance_count": 5,
+          "time_info": "[04时28分 ~ 12时08分]"
         },
         {
           "title": "谷歌CEO：Gemini月活跃用户达9亿",
@@ -369,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2376118",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "谷歌首席执行官：AI OVERVIEWS每月有25亿用户，AI MODE有10亿用户。Gemini 拥有9亿月活跃用户。",
@@ -424,6 +472,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
+          "url": "https://www.cls.cn/detail/2376047",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "2026 年 Google I/O 大会有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2040145697911956151",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "谷歌I/O大会要点总结",
@@ -487,7 +557,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -538,8 +608,195 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "伊媒：伊朗格什姆岛传出爆炸声",
+          "url": "https://news.ifeng.com/c/8tG6zVYeyxe",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 12时08分]"
+        },
+        {
+          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 12时08分]"
+        },
+        {
+          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 12时08分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 08时02分]"
+        },
+        {
+          "title": "欧洲央行管委Kocher：如果伊朗战争没有改善，预计央行将在6月加息。",
+          "url": "https://wallstreetcn.com/livenews/3106242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "欧洲地中海地震中心：伊朗南部地区发生5级地震。",
+          "url": "https://flash.jin10.com/detail/20260520074718230800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥与联合国秘书长古特雷斯周二就美国阻止伊朗在霍尔木兹海峡布雷和收取过境费的努力进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260520011234322800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗：美国关于伊朗学校位于巡航导弹基地内的说法毫无根据。",
+          "url": "https://wallstreetcn.com/livenews/3106260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "伊朗方面表示，美国关于其击中的伊朗学校位于巡航导弹基地内的说法毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260520051106036800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 82 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040200472615543846",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "美国公布新一轮对伊朗制裁名单",
+          "url": "https://wallstreetcn.com/livenews/3106175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美联储保尔森：如果伊朗冲突持续，将进一步增加通胀和失业的风险。",
+          "url": "https://flash.jin10.com/detail/20260520072823535800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美方称推迟对伊朗军事打击",
+          "url": "https://www.toutiao.com/trending/7640781380679385124/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "欧洲央行管委Kocher：如果伊朗战争局势没有改善，6月可能不得不加息",
+          "url": "https://wallstreetcn.com/livenews/3106242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "伊朗副外长：将坚决应对任何形式的军事侵略",
+          "url": "https://wallstreetcn.com/livenews/3106161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国参议院的程序性投票显示对伊朗战争的反对声音增强",
+          "url": "https://wallstreetcn.com/livenews/3106272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -552,6 +809,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 06时13分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
+          "url": "https://www.cls.cn/detail/2376079",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时13分 ~ 12时08分]"
+        },
+        {
+          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
+          "url": "https://wallstreetcn.com/articles/3772622",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 12时08分]"
         },
         {
           "title": "周二（5月19日），美股存储芯片与硬件供应链指数涨0.62%，报173.64点，美股早盘呈现出V形反转行情。 成分股闪迪收涨3.77%，美光科技涨2.52%，泰瑞达涨0.15%，西部数据则收跌0.63%，希捷科技、Rambus、应用材料、拉姆研究跌1.01%-1.65%。",
@@ -587,30 +870,6 @@
           "time_info": "06时13分"
         },
         {
-          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
-          "url": "https://www.cls.cn/detail/2376079",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时13分 ~ 08时02分]"
-        },
-        {
-          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
-          "url": "https://wallstreetcn.com/articles/3772622",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 08时02分]"
-        },
-        {
           "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3106240",
           "source": "华尔街见闻-快讯",
@@ -643,6 +902,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 06时13分]"
+        },
+        {
+          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
+          "url": "https://wallstreetcn.com/articles/3772667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
@@ -695,170 +965,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "伊媒：伊朗格什姆岛传出爆炸声",
-          "url": "https://news.ifeng.com/c/8tG6zVYeyxe",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 08时02分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 08时02分]"
-        },
-        {
-          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 08时02分]"
-        },
-        {
-          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 08时02分]"
-        },
-        {
-          "title": "欧洲央行管委Kocher：如果伊朗战争没有改善，预计央行将在6月加息。",
-          "url": "https://wallstreetcn.com/livenews/3106242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "欧洲地中海地震中心：伊朗南部地区发生5级地震。",
-          "url": "https://flash.jin10.com/detail/20260520074718230800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥与联合国秘书长古特雷斯周二就美国阻止伊朗在霍尔木兹海峡布雷和收取过境费的努力进行了交谈。",
-          "url": "https://flash.jin10.com/detail/20260520011234322800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "伊朗：美国关于伊朗学校位于巡航导弹基地内的说法毫无根据。",
-          "url": "https://wallstreetcn.com/livenews/3106260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "伊朗方面表示，美国关于其击中的伊朗学校位于巡航导弹基地内的说法毫无根据。",
-          "url": "https://flash.jin10.com/detail/20260520051106036800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "美国公布新一轮对伊朗制裁名单",
-          "url": "https://wallstreetcn.com/livenews/3106175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美联储保尔森：如果伊朗冲突持续，将进一步增加通胀和失业的风险。",
-          "url": "https://flash.jin10.com/detail/20260520072823535800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "欧洲央行管委Kocher：如果伊朗战争局势没有改善，6月可能不得不加息",
-          "url": "https://wallstreetcn.com/livenews/3106242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "伊朗副外长：将坚决应对任何形式的军事侵略",
-          "url": "https://wallstreetcn.com/livenews/3106161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美国参议院的程序性投票显示对伊朗战争的反对声音增强",
-          "url": "https://wallstreetcn.com/livenews/3106272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时02分"
         }
@@ -866,7 +973,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
@@ -908,7 +1015,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -922,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
+          "url": "https://wallstreetcn.com/articles/3772671",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "汇丰：10年期美债收益率在危险区，但尚未发出买入信号",
@@ -969,7 +1087,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -994,6 +1112,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI投2.34亿美元在新加坡设立新AI实验室",
+          "url": "https://flash.jin10.com/detail/20260520115552905800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "OpenAI担保给予开支水平的算力。",
+          "url": "https://wallstreetcn.com/livenews/3106231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
+          "url": "https://wallstreetcn.com/livenews/3106163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     },
@@ -1024,34 +1181,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时02分 ~ 08时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI担保给予开支水平的算力。",
-          "url": "https://wallstreetcn.com/livenews/3106231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
-          "url": "https://wallstreetcn.com/livenews/3106163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
         }
       ]
     },
