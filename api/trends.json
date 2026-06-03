@@ -1,227 +1,12 @@
 {
-  "generated_at": "2026-06-04T04:17:01.215984+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-06-04T07:03:45.123713+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 04时17分]"
-        },
-        {
-          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
-          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
-        },
-        {
-          "title": "胡塞武装发表声明，重申支持伊朗维护自身权利",
-          "url": "https://wallstreetcn.com/livenews/3113991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "胡塞武装发表声明 重申支持伊朗维护自身权利",
-          "url": "https://flash.jin10.com/detail/20260604034709070800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "伊朗军队称刚刚打击美军指挥舰",
-          "url": "https://wallstreetcn.com/livenews/3113990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "据美国官员透露，经济补偿是伊朗协议的关键症结。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3113987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗国防部表示将竭尽全力加强国家防御能力。",
-          "url": "https://flash.jin10.com/detail/20260604034214703800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "美国中央司令部：伊朗声称其已对一艘位于阿曼湾的美国海军驱逐舰发动了打击。伊朗在撒谎。美国军方海上资产仍在安全、不受阻碍地执行飞行、航行和作战任务。",
-          "url": "https://flash.jin10.com/detail/20260604034106051800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：我方武装力量正对美国获准使用、用于袭击民用船只及破坏停火的相关目标实施自卫打击。 任何“敌对”行动都将遭到立即且果断的回应。",
-          "url": "https://wallstreetcn.com/livenews/3113913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "美媒：如何向伊朗“赔钱”成谈判症结之一",
-          "url": "https://flash.jin10.com/detail/20260604033452207800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "【伊朗革命卫队否认向科威特机场开火】当地时间3日，伊朗伊斯兰革命卫队发言人表示，其军队并未向科威特机场这一目标开火。 发言人称，科威特机场航站楼损毁系美国“爱国者”防空导弹系统故障所致，该系统发射的导弹在拦截伊朗导弹失败后误落至该航站楼。 科威特外交部3日发表声明说，科威特国际机场等多处民用设施当天遭伊朗弹道导弹和无人机袭击，造成1人死亡、多人受伤。科威特一度暂停该国空中交通并关闭领空。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3113981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "伊朗军队称刚刚打击美军指挥舰",
-          "url": "https://flash.jin10.com/detail/20260604032342739800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "巴林方面称已逮捕15名与伊朗有关的“现场行动人员”。",
-          "url": "https://flash.jin10.com/detail/20260603234257881800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "伊朗外长表示，如果以色列攻击贝鲁特，伊朗将作出果断回应。（黎巴嫩电视台Al-Mayadeen）",
-          "url": "https://wallstreetcn.com/livenews/3113972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "据CNN：金钱赔偿问题成为了伊朗协议中的关键症结。",
-          "url": "https://flash.jin10.com/detail/20260604031409574800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：并没有向科威特机场开火。（伊朗国家电视台）",
-          "url": "https://wallstreetcn.com/livenews/3113970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "【以军总参谋长称军队在黎巴嫩“没有停火可言”】当地时间3日，以色列国防军总参谋长扎米尔在视察海法海军基地时表示，以军在黎巴嫩“没有停火可言”，并称以军已准备好随时恢复针对伊朗的战斗。扎米尔称，以色列海军正成为以色列军队的“另一支远程战略力量”。他表示，自就任以来，他就指示要加强海军作为远程战略力量的建设，目前以军正在加速落实这一作战理念。针对伊朗问题，扎米尔补充说，以色列国防军的所有军种都已准备好，随时可以恢复针对伊朗的战斗。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3113969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "伊朗外长阿拉格奇：伊朗部队对美国使用的军事地点进行打击",
-          "url": "https://flash.jin10.com/detail/20260603234011068800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
-          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 04时17分]"
-        },
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
           "url": "https://wallstreetcn.com/articles/3773781",
@@ -230,8 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 07时03分]"
+        },
+        {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 07时03分]"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
@@ -253,8 +50,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 07时03分]"
+        },
+        {
+          "title": "“离签署协议已非常接近”，特朗普披露美伊谈判细节",
+          "url": "https://news.ifeng.com/c/8tfYHflwBeK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "卡塔尔埃米尔办公室：埃米尔与特朗普通话，讨论地区最新局势发展。",
@@ -263,7 +71,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -274,7 +82,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -290,15 +98,81 @@
           "time_info": "00时31分"
         },
         {
+          "title": "特朗普遭遇党内反弹：众议院投票叫停对伊战争",
+          "url": "https://flash.jin10.com/detail/20260604064111387800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普淡化霍尔木兹海峡水雷威胁，并鼓吹替代航线",
+          "url": "https://wallstreetcn.com/livenews/3114042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://wallstreetcn.com/livenews/3114038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普称美伊协议可能在本周末达成",
+          "url": "https://flash.jin10.com/detail/20260604060822313800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
+          "url": "https://wallstreetcn.com/livenews/3114035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
           "title": "美国总统特朗普政府（针对尖端模型发布前须先送审）提议对“可信申请者”免除严格的国家安全许可审查，并同意持续的监督和监测。",
           "url": "https://flash.jin10.com/detail/20260604031751979800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "特朗普称对伊封锁“比轰炸更有影响力” 美伊将联手挖掘核材料",
+          "url": "https://flash.jin10.com/detail/20260604054420456800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "美国总统特朗普：副总统万斯和共和党人在各州打击诈骗方面做得非常出色。数十亿美元的资金正在被发现，如果我们找到了这一切，我们就能够平衡预算，同时减少税收。",
@@ -307,7 +181,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -345,21 +219,248 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美众议院通过决议 限制特朗普对伊动武权力",
+          "url": "https://flash.jin10.com/detail/20260604053252416800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普称与伊朗谈判进展“非常顺利”",
+          "url": "https://wallstreetcn.com/livenews/3114023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
           "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
           "url": "https://wallstreetcn.com/livenews/3113962",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         }
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 07时03分]"
+        },
+        {
+          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
+          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
+        },
+        {
+          "title": "胡塞武装发表声明，重申支持伊朗维护自身权利",
+          "url": "https://wallstreetcn.com/livenews/3113991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "胡塞武装发表声明 重申支持伊朗维护自身权利",
+          "url": "https://flash.jin10.com/detail/20260604034709070800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "伊朗军队称刚刚打击美军指挥舰",
+          "url": "https://wallstreetcn.com/livenews/3113990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "据美国官员透露，经济补偿是伊朗协议的关键症结。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3113987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗国防部表示将竭尽全力加强国家防御能力。",
+          "url": "https://flash.jin10.com/detail/20260604034214703800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "美国中央司令部：伊朗声称其已对一艘位于阿曼湾的美国海军驱逐舰发动了打击。伊朗在撒谎。美国军方海上资产仍在安全、不受阻碍地执行飞行、航行和作战任务。",
+          "url": "https://flash.jin10.com/detail/20260604034106051800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：我方武装力量正对美国获准使用、用于袭击民用船只及破坏停火的相关目标实施自卫打击。 任何“敌对”行动都将遭到立即且果断的回应。",
+          "url": "https://wallstreetcn.com/livenews/3113913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "美媒：如何向伊朗“赔钱”成谈判症结之一",
+          "url": "https://flash.jin10.com/detail/20260604033452207800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "【伊朗革命卫队否认向科威特机场开火】当地时间3日，伊朗伊斯兰革命卫队发言人表示，其军队并未向科威特机场这一目标开火。 发言人称，科威特机场航站楼损毁系美国“爱国者”防空导弹系统故障所致，该系统发射的导弹在拦截伊朗导弹失败后误落至该航站楼。 科威特外交部3日发表声明说，科威特国际机场等多处民用设施当天遭伊朗弹道导弹和无人机袭击，造成1人死亡、多人受伤。科威特一度暂停该国空中交通并关闭领空。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3113981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "伊朗军队称刚刚打击美军指挥舰",
+          "url": "https://flash.jin10.com/detail/20260604032342739800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "巴林方面称已逮捕15名与伊朗有关的“现场行动人员”。",
+          "url": "https://flash.jin10.com/detail/20260603234257881800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "伊朗外长表示，如果以色列攻击贝鲁特，伊朗将作出果断回应。（黎巴嫩电视台Al-Mayadeen）",
+          "url": "https://wallstreetcn.com/livenews/3113972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "据CNN：金钱赔偿问题成为了伊朗协议中的关键症结。",
+          "url": "https://flash.jin10.com/detail/20260604031409574800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：并没有向科威特机场开火。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3113970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "【以军总参谋长称军队在黎巴嫩“没有停火可言”】当地时间3日，以色列国防军总参谋长扎米尔在视察海法海军基地时表示，以军在黎巴嫩“没有停火可言”，并称以军已准备好随时恢复针对伊朗的战斗。扎米尔称，以色列海军正成为以色列军队的“另一支远程战略力量”。他表示，自就任以来，他就指示要加强海军作为远程战略力量的建设，目前以军正在加速落实这一作战理念。针对伊朗问题，扎米尔补充说，以色列国防军的所有军种都已准备好，随时可以恢复针对伊朗的战斗。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3113969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "伊朗外长阿拉格奇：伊朗部队对美国使用的军事地点进行打击",
+          "url": "https://flash.jin10.com/detail/20260603234011068800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -369,8 +470,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 07时03分]"
         },
         {
           "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
@@ -385,6 +486,17 @@
           "time_info": "[00时30分 ~ 04时17分]"
         },
         {
+          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
+          "url": "https://www.cls.cn/detail/2390139",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
           "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
           "url": "https://wallstreetcn.com/articles/3773769",
           "source": "华尔街见闻",
@@ -393,8 +505,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 07时03分]"
+        },
+        {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
@@ -402,11 +525,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 07时03分]"
         },
         {
           "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
@@ -426,15 +550,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "博通美股盘后跌幅扩大至12%。",
+          "url": "https://wallstreetcn.com/livenews/3114029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：从今天起，符合条件的美国谷歌AI Ultra订阅用户（18岁及以上）可以在安卓和iOS设备上使用DreamBeans服务。",
@@ -487,15 +622,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
+          "url": "https://wallstreetcn.com/livenews/3114037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国参议院民主党领导人Schumer周三会见OpenAI的CEO Altman。（Semafor）",
@@ -514,11 +660,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 07时03分]"
         },
         {
           "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
@@ -530,6 +677,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 04时17分]"
+        },
+        {
+          "title": "OpenAI打算整合CodeX与ChatGPT。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3114043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "电话会：博通为OpenAI开发芯片，将于2027财年部署1.3 GW。 到2028财年年底将向Meta部署3 GW。 围绕服务OpenAI与Anthropic，公司与阿波罗、黑石集团合作。",
+          "url": "https://wallstreetcn.com/livenews/3114027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         }
       ]
     },
@@ -546,8 +715,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 07时03分]"
         },
         {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
@@ -555,11 +724,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 07时03分]"
         }
       ]
     },
@@ -572,11 +742,12 @@
           "url": "https://www.toutiao.com/trending/7646967437870747187/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 04时17分]"
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 07时03分]"
         }
       ]
     },
@@ -591,7 +762,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         }
@@ -608,7 +779,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         }
