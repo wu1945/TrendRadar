@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T19:49:20.006524+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-06-04T22:49:47.692487+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -32,6 +32,18 @@
           "time_info": "[00时30分 ~ 07时03分]"
         },
         {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 22时49分]"
+        },
+        {
           "title": "特朗普任命房屋监管主管兼任情报总监",
           "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
           "source": "凤凰网",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 04时17分]"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 19时49分]"
         },
         {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
@@ -95,7 +95,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -106,9 +106,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
+        },
+        {
+          "title": "美国财长贝森特重申，无法对美国总统特朗普与国税局的和解问题发表评论。",
+          "url": "https://flash.jin10.com/detail/20260604222240545800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
@@ -120,6 +131,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时34分 ~ 16时17分]"
+        },
+        {
+          "title": "特朗普认为赞成限制其战争权力的众议员“不爱国”",
+          "url": "https://wallstreetcn.com/livenews/3114496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "卡塔尔埃米尔办公室：埃米尔与特朗普通话，讨论地区最新局势发展。",
@@ -139,7 +161,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -216,7 +238,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -238,7 +260,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -263,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美众院通过决议限制特朗普对伊朗动武",
@@ -348,7 +381,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -411,7 +444,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
@@ -454,7 +487,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -501,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "伊朗革命卫队：以色列须立即停止袭击黎巴嫩",
+          "url": "https://wallstreetcn.com/livenews/3114497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "在伊朗被击落的美军飞行员，被曝此前也在科威特遭误击",
@@ -556,6 +600,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "伊朗革命卫队：以色列须立即停止袭击黎巴嫩",
+          "url": "https://flash.jin10.com/detail/20260604221304618800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "国际原子能机构：无法确认伊朗浓缩铀的状况和位置",
+          "url": "https://wallstreetcn.com/livenews/3114491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美媒：如何向伊朗“赔钱”成谈判症结之一",
@@ -668,6 +734,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "国际原子能机构：报告重申，因2025年6月军事打击，该机构对伊朗受影响设施内所有此前申报核材料失去连续性掌握，此问题须以最高紧迫性加以解决。",
+          "url": "https://flash.jin10.com/detail/20260604220328126800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "【以军总参谋长称军队在黎巴嫩“没有停火可言”】当地时间3日，以色列国防军总参谋长扎米尔在视察海法海军基地时表示，以军在黎巴嫩“没有停火可言”，并称以军已准备好随时恢复针对伊朗的战斗。扎米尔称，以色列海军正成为以色列军队的“另一支远程战略力量”。他表示，自就任以来，他就指示要加强海军作为远程战略力量的建设，目前以军正在加速落实这一作战理念。针对伊朗问题，扎米尔补充说，以色列国防军的所有军种都已准备好，随时可以恢复针对伊朗的战斗。（央视）",
           "url": "https://wallstreetcn.com/livenews/3113969",
           "source": "华尔街见闻-快讯",
@@ -677,6 +754,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "国际原子能机构：鉴于伊朗持续拒绝解决未决保障监督问题，对伊朗境内可能存在未申报核材料及相关活动仍存有严重关切。",
+          "url": "https://flash.jin10.com/detail/20260604220241341800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "国际原子能机构：在伊朗切实执行《不扩散核武器条约》保障监督协议不仅不可或缺，且刻不容缓，该协议的执行不得暂停。",
+          "url": "https://flash.jin10.com/detail/20260604220213339800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "国际原子能机构：IAEA对伊朗截至2025年6月13日的铀浓缩库存估算与此前报告保持不变。",
+          "url": "https://flash.jin10.com/detail/20260604220202258800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "伊朗外长阿拉格奇：伊朗部队对美国使用的军事地点进行打击",
@@ -693,7 +803,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -707,6 +817,19 @@
           "time_info": "[00时30分 ~ 07时03分]"
         },
         {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时03分 ~ 22时49分]"
+        },
+        {
           "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
           "url": "https://wallstreetcn.com/articles/3773769",
           "source": "华尔街见闻",
@@ -718,18 +841,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时30分 ~ 16时17分]"
-        },
-        {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时03分 ~ 19时49分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -766,6 +877,17 @@
           "time_info": "16时17分"
         },
         {
+          "title": "李大霄谈美股风险释放",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2389957",
           "source": "财联社热门",
@@ -784,11 +906,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 19时49分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 22时49分]"
         },
         {
           "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
@@ -825,6 +948,17 @@
           "time_info": "[16时17分 ~ 19时49分]"
         },
         {
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美股超级IPO如何影响指数",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E8%B6%85%E7%BA%A7IPO%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%8C%87%E6%95%B0",
           "source": "bilibili 热搜",
@@ -842,7 +976,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -864,7 +998,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -878,13 +1012,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "美股三大股指涨跌不一，博通大跌近14%",
+          "url": "https://wallstreetcn.com/livenews/3114472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3114466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 22时49分]"
+        },
         {
           "title": "谷歌(GOOG.O)：从今天起，符合条件的美国谷歌AI Ultra订阅用户（18岁及以上）可以在安卓和iOS设备上使用DreamBeans服务。",
           "url": "https://flash.jin10.com/detail/20260604001056714800",
@@ -930,16 +1099,15 @@
           "time_info": "11时34分"
         },
         {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
+          "title": "Gemini 美国豆包",
+          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%8C%85&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            5
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 19时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "谷歌计划释放3200万只蚊子",
@@ -948,7 +1116,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -975,6 +1143,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "谷歌计划投放3200万只蚊子",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
           "url": "https://wallstreetcn.com/livenews/3114037",
           "source": "华尔街见闻-快讯",
@@ -984,6 +1163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "谷歌：公司与能源开发商Intersect将建设Meitner能源中心，其中包括在德克萨斯州格雷县和罗伯茨县新建数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3114468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
@@ -1103,7 +1293,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         }
