@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-23T10:48:13.344947+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-06-23T14:47:38.714000+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "伊朗谈判团队称伊美谈判达成5项要点",
+          "url": "https://wallstreetcn.com/articles/3775177",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时23分 ~ 14时47分]"
+        },
         {
           "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
           "url": "https://www.zhihu.com/question/2052442119843701055",
@@ -16,19 +29,6 @@
             3,
             2,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时23分 ~ 10时48分]"
-        },
-        {
-          "title": "伊朗谈判团队称伊美谈判达成5项要点",
-          "url": "https://wallstreetcn.com/articles/3775177",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -68,6 +68,34 @@
           "time_info": "[07时25分 ~ 10时48分]"
         },
         {
+          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
+          "url": "https://www.zhihu.com/question/2050890957483202069",
+          "source": "知乎",
+          "ranks": [
+            20,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时23分 ~ 14时47分]"
+        },
+        {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            18,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时23分 ~ 14时47分]"
+        },
+        {
           "title": "伊朗公布哈梅内伊葬礼安排",
           "url": "https://news.ifeng.com/c/8uAe6Rs4IDL",
           "source": "凤凰网",
@@ -79,31 +107,26 @@
           "time_info": "[03时23分 ~ 06时01分]"
         },
         {
-          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
-          "url": "https://www.zhihu.com/question/2050890957483202069",
-          "source": "知乎",
+          "title": "伊朗公布首批解冻资金用途",
+          "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            12,
-            10,
-            11
+            4
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时23分 ~ 10时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
+          "title": "顽强战平比利时队，伊朗议长、外长发图致敬球队",
+          "url": "https://news.ifeng.com/c/8uBnCRJdvtz",
+          "source": "凤凰网",
           "ranks": [
-            17,
-            18,
-            14
+            5
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时23分 ~ 10时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗谈判代表团团长在阿曼外长的欢迎下抵达马斯喀特。",
@@ -292,9 +315,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "伊朗使馆：伊朗总统将访问巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3123221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "内塔尼亚胡：只要我还是以色列总理，伊朗就别想拥有核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33428620",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
@@ -325,7 +370,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -405,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "豁免60天、6800万桶待售：伊朗火速游说亚洲，大买家却按兵不动",
+          "url": "https://flash.jin10.com/detail/20260623140536952800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "美国豁免制裁前一周，伊朗出口了3000万桶原油",
@@ -490,15 +546,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社，伊朗称关于落实谅解备忘录的技术性会谈已经结束。",
+          "url": "https://wallstreetcn.com/livenews/3123194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -558,13 +625,24 @@
           "time_info": "03时23分"
         },
         {
+          "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
+          "url": "https://news.ifeng.com/c/8uBgi1AZcfM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "美国白宫发言人：美国总统特朗普不会批准不符合美国国家安全利益的协议。",
           "url": "https://flash.jin10.com/detail/20260623102249025800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -600,6 +678,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "特朗普签署两项行政令 推动2028年部署用于科学研究的量子计算机",
@@ -748,18 +837,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
           "url": "https://www.cls.cn/detail/2406186",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 14时47分]"
         },
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -773,6 +863,17 @@
           "time_info": "[03时23分 ~ 06时01分]"
         },
         {
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时47分]"
+        },
+        {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2405983",
           "source": "财联社热门",
@@ -784,17 +885,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时23分 ~ 10时48分]"
-        },
-        {
-          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
-          "url": "https://www.cls.cn/detail/2406236",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
         },
         {
           "title": "美股科技股深夜下挫",
@@ -819,6 +909,17 @@
           "time_info": "[10时47分 ~ 10时48分]"
         },
         {
+          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌2%，标普500指数期货跌1.1%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3123229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "Credo Technology Group Holding Ltd.维持超过11%的涨幅，暂报303.90美元，美股盘初曾涨至308.67美元创盘中历史新高，Evercore ISI给予该公司超配的初始评级、目标价325美元，分析师Mark Lipacis认为，Credo将越来越被看做一家广泛的铜缆与光纤连接玩家/铜缆+光纤综合方案供应商。",
           "url": "https://wallstreetcn.com/livenews/3122986",
           "source": "华尔街见闻-快讯",
@@ -839,6 +940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "欧美股指期货跌幅扩大，标普500指数期货下跌0.9%，纳斯达克期货指数下跌1.6%；欧洲斯托克50指数期货下跌0.9%，德国DAX指数期货下跌1.0%，英国富时指数期货下跌1.0%。",
+          "url": "https://wallstreetcn.com/livenews/3123210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "IBM美股盘后涨2.4%。",
@@ -865,6 +977,67 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
+          "url": "https://www.cls.cn/detail/2406212",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时47分]"
+        },
+        {
+          "title": "金十图示：2026年06月23日（周二）上海金早盘价为906.19元/克，较国际金价(906.18元/克)，高0.01元/克",
+          "url": "https://flash.jin10.com/detail/20260623103439291800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "金价暴跌黄金该买还是该卖",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "金价又又又崩了",
+          "url": "https://news.ifeng.com/c/8uBh0V2wuzK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "国际金价“高台跳水” 金饰价格降了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4%E2%80%9D+%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -873,11 +1046,12 @@
           "url": "https://www.cls.cn/detail/2406155",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时47分]"
         },
         {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
@@ -904,41 +1078,31 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
       "titles": [
         {
-          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
-          "url": "https://www.cls.cn/detail/2406212",
-          "source": "财联社热门",
+          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
+          "url": "https://wallstreetcn.com/articles/3775170",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[03时23分 ~ 07时26分]"
         },
         {
-          "title": "金十图示：2026年06月23日（周二）上海金早盘价为906.19元/克，较国际金价(906.18元/克)，高0.01元/克",
-          "url": "https://flash.jin10.com/detail/20260623103439291800",
-          "source": "金十数据",
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
           "ranks": [
-            1
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "金价暴跌黄金该买还是该卖",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "time_info": "14时47分"
         }
       ]
     },
@@ -999,24 +1163,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
-          "url": "https://wallstreetcn.com/articles/3775170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时23分 ~ 07时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1028,8 +1174,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 14时47分]"
         }
       ]
     }
