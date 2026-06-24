@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T14:44:20.181701+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2026-06-24T18:20:07.306223+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 38,
       "titles": [
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和阿曼同意成立霍尔木兹海峡委员会。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "外交官表示，目前正在筹划在利雅得举行伊朗与海湾国家之间的单独区域和解会谈。",
+          "url": "https://flash.jin10.com/detail/20260624181211334800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：希望开启伊朗与巴基斯坦之间的新篇章。",
@@ -41,6 +52,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "外交官表示，伊朗、海湾合作委员会（GCC）和伊拉克就霍尔木兹海峡问题举行的会谈，与美伊和平谈判及该海峡排雷安排无关，而是侧重于霍尔木兹海峡未来的运营问题。",
+          "url": "https://flash.jin10.com/detail/20260624181122622800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：与巴基斯坦官员举行了建设性会谈。",
           "url": "https://flash.jin10.com/detail/20260624001658877800",
           "source": "金十数据",
@@ -61,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "知情外交官透露，虽然过路费不在谈判议程上，但预计伊朗将提出环境费、航行费和安全费。",
+          "url": "https://flash.jin10.com/detail/20260624180840396800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
@@ -88,6 +121,18 @@
           "time_info": "[00时26分 ~ 07时05分]"
         },
         {
+          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2052882056875603762",
+          "source": "知乎",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 18时20分]"
+        },
+        {
           "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
           "url": "https://news.ifeng.com/c/8uCdaH694Zv",
           "source": "凤凰网",
@@ -99,16 +144,15 @@
           "time_info": "[10时48分 ~ 14时44分]"
         },
         {
-          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2052882056875603762",
-          "source": "知乎",
+          "title": "伊朗总统种树太投入巴总理没拦住",
+          "url": "https://www.toutiao.com/trending/7654472597551205924/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            16
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时48分 ~ 14时44分]"
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "伊朗总统：近期事件凸显了与巴基斯坦关系的改善。",
@@ -139,7 +183,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -177,13 +221,24 @@
           "time_info": "03时08分"
         },
         {
+          "title": "知情外交官透露，卡塔尔首相周三在马斯喀特与阿曼启动关于伊朗、海湾合作委员会（GCC）和伊拉克就霍尔木兹海峡重开及未来运营问题举行会谈的进程。",
+          "url": "https://flash.jin10.com/detail/20260624180708678800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "报道：伊朗石油部长前往印度参加金砖国家能源峰会",
           "url": "https://wallstreetcn.com/livenews/3123825",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -243,6 +298,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "伊朗议会议长：黎巴嫩停火与伊朗停火同等重要",
+          "url": "https://wallstreetcn.com/livenews/3123913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "伊朗总统：伊美谅解备忘录不涉及导弹问题",
           "url": "https://wallstreetcn.com/livenews/3123592",
           "source": "华尔街见闻-快讯",
@@ -252,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "伊朗说准备与海湾国家达成安全协议",
+          "url": "https://wallstreetcn.com/livenews/3123910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "富国银行新兴市场策略师Álvaro Vivanco：我们正进一步进入这样一个时期：在全球经济增速放缓和美联储鹰派立场主导下，伊朗问题全面解决所剩无几的微小溢价将被抹平。 这意味着新兴市场外汇将面临压力，同时利率也仍有进一步压缩的空间。",
@@ -287,6 +364,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "伊朗议长说中东安全由中东国家决定",
+          "url": "https://wallstreetcn.com/livenews/3123904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "比利时0-0伊朗",
           "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
@@ -309,13 +397,24 @@
           "time_info": "03时08分"
         },
         {
+          "title": "据阿曼国家电视台：卡塔尔首相与阿曼苏丹讨论了关于伊朗战争的调解努力。",
+          "url": "https://flash.jin10.com/detail/20260624174321444800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "以色列证实向伊朗偷运数万星链",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%AF%81%E5%AE%9E%E5%90%91%E4%BC%8A%E6%9C%97%E5%81%B7%E8%BF%90%E6%95%B0%E4%B8%87%E6%98%9F%E9%93%BE%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -334,8 +433,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
         {
           "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
           "url": "https://wallstreetcn.com/livenews/3123570",
@@ -419,6 +529,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 07时05分]"
+        },
+        {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 18时20分]"
+        },
+        {
+          "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
+          "url": "https://news.ifeng.com/c/8uDcqo1sDyJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
@@ -521,17 +654,6 @@
           "time_info": "05时29分"
         },
         {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
           "title": "美国总统特朗普：正与伊朗达成一份协议，将观察后续进展。 伊朗关于国际原子能机构（IAEA）观察员的立场是错误的。 并不急于实地调查伊朗的核问题。 伊朗在饥饿、食品、医药、通胀方面存在问题。",
           "url": "https://wallstreetcn.com/livenews/3123594",
           "source": "华尔街见闻-快讯",
@@ -579,7 +701,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
@@ -603,6 +725,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时48分 ~ 14时44分]"
+        },
+        {
+          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（6月23日），美国科技股七巨头（Magnificent 7）指数跌1.44%，报205.68点，特斯拉收跌5.79%。 “超大”市值科技股指数跌2.53%，报423.41点。",
@@ -730,6 +863,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "哔哩哔哩(BILI.O)美股盘前上涨2.4%，此前公司宣布推出一项新的3亿美元股票回购计划。",
+          "url": "https://flash.jin10.com/detail/20260624174903778800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "美股芯片股全线重挫",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E9%87%8D%E6%8C%AB",
           "source": "百度热搜",
@@ -750,6 +894,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "美股盘前，半导体股多数上涨，英特尔涨约2%，美光科技涨约3%，高通涨约3%，ARM涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3123895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
@@ -757,6 +912,17 @@
       "keyword_group": "美债",
       "match_count": 6,
       "titles": [
+        {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 18时20分]"
+        },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
           "url": "https://wallstreetcn.com/articles/3775156",
@@ -767,17 +933,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 07时05分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 14时44分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
@@ -811,8 +966,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 18时20分]"
         },
         {
           "title": "两年期美债收益率周二跌超2.7个基点",
@@ -871,7 +1026,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -890,7 +1045,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
@@ -917,6 +1072,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 07时05分]"
+        },
+        {
+          "title": "美联储加息3次金价或跌至3800",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF3%E6%AC%A1%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33800%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "金十图示：2026年06月24日（周三）上海金早盘价为890.07元/克，较国际金价(888.73元/克)，高1.34元/克",
@@ -986,6 +1152,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 18时20分]"
+        },
+        {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
@@ -995,17 +1172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
-          "url": "https://wallstreetcn.com/articles/3775315",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
         }
       ]
     },
