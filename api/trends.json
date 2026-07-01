@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:08:01.728854+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-07-01T10:59:12.831606+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时03分 ~ 07时08分]"
+        },
+        {
+          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
+          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 10时59分]"
         },
         {
           "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
@@ -80,7 +91,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -129,6 +140,17 @@
           "time_info": "[01时03分 ~ 03时49分]"
         },
         {
+          "title": "特朗普政府，遭全美半数州集体起诉",
+          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 10时59分]"
+        },
+        {
           "title": "信披：特朗普对苹果、英伟达持股分别至少500万美元",
           "url": "https://wallstreetcn.com/livenews/3126986",
           "source": "华尔街见闻-快讯",
@@ -139,6 +161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时08分]"
+        },
+        {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 10时59分]"
         },
         {
           "title": "美国总统特朗普：最高法院维持了出生公民权，这对我们国家来说非常遗憾。",
@@ -202,7 +235,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -224,7 +257,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -235,7 +268,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -246,7 +279,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         }
@@ -492,7 +525,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
@@ -500,11 +533,35 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 07时08分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 10时59分]"
+        },
+        {
+          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2413612",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 10时59分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时07分 ~ 10时59分]"
         },
         {
           "title": "耐克美股盘后跌幅扩大至6.6%。",
@@ -529,15 +586,15 @@
           "time_info": "[01时03分 ~ 05时25分]"
         },
         {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时07分 ~ 07时08分]"
+          "time_info": "[10时58分 ~ 10时59分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
@@ -581,7 +638,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -592,7 +649,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -647,7 +704,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         }
@@ -704,6 +761,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 10时59分]"
+        },
+        {
+          "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
+          "url": "https://wallstreetcn.com/livenews/3126968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -736,23 +821,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
-          "url": "https://wallstreetcn.com/livenews/3126968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
         }
       ]
     },
