@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T10:59:12.831606+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-07-01T15:13:54.989893+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 15时13分]"
         },
         {
           "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时03分 ~ 07时08分]"
+        },
+        {
+          "title": "德国提出在欧洲生产美国武器的计划 以争取特朗普的继续支持",
+          "url": "https://flash.jin10.com/detail/20260701144532076800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "美国总统特朗普：国会应立即着手推动终止出生公民权。",
@@ -61,6 +72,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 15时13分]"
         },
         {
           "title": "美国总统特朗普：我们完全可以通过国会立法解决这一问题，我也会予以支持。",
@@ -161,17 +184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时08分]"
-        },
-        {
-          "title": "特朗普在最高法院输了，为什么又扯上中国？",
-          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
         },
         {
           "title": "美国总统特朗普：最高法院维持了出生公民权，这对我们国家来说非常遗憾。",
@@ -287,7 +299,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗：未来几天暂无与美方会晤计划",
@@ -445,6 +457,17 @@
           "time_info": "03时49分"
         },
         {
+          "title": "伊朗官员：美国干涉地区事务的时代已结束",
+          "url": "https://wallstreetcn.com/livenews/3127209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "印度政府：总理莫迪今日与伊朗总统马苏德·佩泽希齐扬通电话。",
           "url": "https://flash.jin10.com/detail/20260701000709317800",
           "source": "金十数据",
@@ -465,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "伊朗国防部长：在与国会经济委员会成员们的会议中，我强调，伊朗伊斯兰共和国的防御、导弹和无人机能力是国家安全的红线，这些能力不可谈判，永远不会被谈判。这些能力将依靠国内力量进行发展。",
+          "url": "https://flash.jin10.com/detail/20260701142410501800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "据知情人士透露，伊朗革命卫队已告知调解方，如果在多哈会谈中无法获得伊朗对霍尔木兹海峡拥有唯一控制权的保证，将再次关闭这条航道。 革命卫队还要求美国及其他国家放弃让船只经由靠近阿曼一侧海峡南部水域航行的计划。（华尔街日报）",
@@ -528,6 +562,30 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2413612",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 15时13分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时07分 ~ 15时13分]"
+        },
+        {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
           "url": "https://www.cls.cn/detail/2413394",
           "source": "财联社热门",
@@ -539,29 +597,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时03分 ~ 10时59分]"
-        },
-        {
-          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2413612",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时07分 ~ 10时59分]"
         },
         {
           "title": "耐克美股盘后跌幅扩大至6.6%。",
@@ -590,11 +625,12 @@
           "url": "https://wallstreetcn.com/articles/3775893",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 15时13分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
@@ -772,8 +808,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 15时13分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
