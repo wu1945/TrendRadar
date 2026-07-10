@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-10T19:47:31.148484+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-07-10T22:12:12.518106+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时02分 ~ 22时12分]"
+        },
         {
           "title": "美军称再次对伊朗发起打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
@@ -31,19 +44,6 @@
           "time_info": "[12时04分 ~ 19时47分]"
         },
         {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时02分 ~ 19时47分]"
-        },
-        {
           "title": "伊朗：已发射10枚弹道导弹，打击驻约旦美军基地",
           "url": "https://news.ifeng.com/c/8udgruF8e0q",
           "source": "凤凰网",
@@ -53,6 +53,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 12时05分]"
+        },
+        {
+          "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
+          "url": "https://news.ifeng.com/c/8ueCFBdRP1G",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
+        },
+        {
+          "title": "卡塔尔代表团抵达伊朗以举行会谈。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3132120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "伊朗发射巡航导弹袭击美国舰艇",
@@ -96,7 +118,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -180,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "伊朗证实卡塔尔访问 但要求其就霍尔木兹海峡指控作出解释",
+          "url": "https://flash.jin10.com/detail/20260710214317218800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "报道：伊朗多地传出爆炸声",
@@ -309,7 +342,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -353,7 +386,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -438,7 +471,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -451,6 +484,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 06时18分]"
+        },
+        {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时04分 ~ 22时12分]"
         },
         {
           "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
@@ -466,16 +511,17 @@
           "time_info": "[00时25分 ~ 12时05分]"
         },
         {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
           "source": "凤凰网",
           "ranks": [
-            2,
-            6
+            6,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 19时47分]"
+          "appearance_count": 6,
+          "time_info": "[12时04分 ~ 22时12分]"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
@@ -500,6 +546,17 @@
           "time_info": "[00时25分 ~ 08时02分]"
         },
         {
+          "title": "白宫官员：特朗普将允许住房法案成为法律。",
+          "url": "https://flash.jin10.com/detail/20260710215324506800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "“二鬼子”章家敦，被特朗普点名批评了",
           "url": "https://news.ifeng.com/c/8ucs5h8eIWd",
           "source": "凤凰网",
@@ -520,18 +577,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 19时47分]"
         },
         {
           "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
@@ -569,6 +614,17 @@
           "time_info": "[16时18分 ~ 19时47分]"
         },
         {
+          "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
+          "url": "https://news.ifeng.com/c/8uec7dkVT5P",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
+        },
+        {
           "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
           "url": "https://flash.jin10.com/detail/20260710054645407800",
           "source": "金十数据",
@@ -590,6 +646,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 12时05分]"
+        },
+        {
+          "title": "特朗普政府被曝拒绝以色列介入局势，卡塔尔代表飞往伊朗斡旋",
+          "url": "https://flash.jin10.com/detail/20260710214522106800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
@@ -623,6 +690,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "特朗普：我不会签署住房法案。",
+          "url": "https://wallstreetcn.com/livenews/3132108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "美国总统特朗普周四与以色列总理通话。（Axios）",
@@ -702,6 +780,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "特朗普：我不会签署住房法案",
+          "url": "https://flash.jin10.com/detail/20260710211741637800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "直击北约峰会48小时：特朗普的“情绪过山车”震动全球",
           "url": "https://flash.jin10.com/detail/20260710110039922800",
           "source": "金十数据",
@@ -716,8 +805,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时04分 ~ 22时12分]"
+        },
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
           "url": "https://wallstreetcn.com/articles/3776425",
@@ -741,18 +842,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时02分 ~ 16时18分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 19时47分]"
         },
         {
           "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
@@ -814,6 +903,28 @@
           "time_info": "[04时44分 ~ 06时18分]"
         },
         {
+          "title": "静待SK海力士IPO，美股指开盘涨跌互现，存储股走低，Meta涨5%，布油企稳",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
+        },
+        {
+          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
+          "url": "https://www.cls.cn/detail/2423160",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
+        },
+        {
           "title": "SK海力士据称每股定价149美元 或刷新美股最大外企上市纪录",
           "url": "https://www.cls.cn/detail/2422169",
           "source": "财联社热门",
@@ -825,15 +936,37 @@
           "time_info": "[12时04分 ~ 12时05分]"
         },
         {
+          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2423243",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
+        },
+        {
           "title": "META美股盘前股价涨幅扩大至3.8%。",
           "url": "https://wallstreetcn.com/livenews/3132028",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
+        },
+        {
+          "title": "美股三大股指开盘涨跌不一，道指开涨0.26%，标普500指数开涨0.08%，纳指跌0.15%。闪迪跌超4%，美光科技跌超3%；Meta涨4.9%；加密货币概念股Circle涨超11%，公司已获美国货币监理署（OCC）批准，可设立国家信托银行。沃达丰大涨12%，尼尔溢价收购阿联酋电信股权。",
+          "url": "https://wallstreetcn.com/livenews/3132112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "静待SK海力士IPO，美股科技股盘前小幅下挫，日元走强，布油企稳，黄金承压",
@@ -842,9 +975,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
+        },
+        {
+          "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260710214134614800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "美股存储芯片指数初步收涨约5%，费城半导体指数涨约3%。 标普500指数初步收涨0.7%，科技板块涨1.6%，可选消费板块涨1.2%，能源板块跌1.6%，日用消费品板块跌1.7%。 纳斯达克100指数初步收涨1.6%，成分股中，Lumentum初步收涨11.3%，Arm控股涨9.1%，闪迪涨7.5%，拉姆研究涨5.6%，Meta涨4.8%，西部数据涨4.4%，美光涨4.2%连续两个交易日反弹，特斯拉涨2.9%，Diamondback Energy跌2.4%，百事可乐跌3.3%，AXON跌3.6%，开市客跌4.1%。",
@@ -891,6 +1035,28 @@
           "time_info": "04时44分"
         },
         {
+          "title": "美股开盘，道指开涨0.26%，标普500指数开涨0.08%，纳指跌0.15%。美光科技(MU.O)跌3%，高通(QCOM.O)跌2%，闪迪(SNDK.O)跌4%，西部数据(WDC.O)跌1.9%，Meta Platforms(META.O)涨4.9%。",
+          "url": "https://flash.jin10.com/detail/20260710213029119800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3132101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 芯片股走强",
           "url": "https://flash.jin10.com/detail/20260710040126846800",
           "source": "金十数据",
@@ -913,6 +1079,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-10）",
+          "url": "https://flash.jin10.com/detail/20260710211707060800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美股大类资产类ETF多数收涨，纳指ETF涨超1.6%、与小盘股ETF、黄金ETF领跑",
           "url": "https://wallstreetcn.com/livenews/3131543",
           "source": "华尔街见闻-快讯",
@@ -930,7 +1107,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         }
@@ -950,8 +1127,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 19时47分]"
+          "appearance_count": 6,
+          "time_info": "[12时04分 ~ 22时12分]"
         },
         {
           "title": "Codex并入ChatGPT桌面端",
