@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T18:55:11.218228+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-07-16T20:18:59.657464+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "美军称对伊朗进行了90分钟打击",
@@ -96,9 +96,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "消息人士：伊朗告知也门胡塞武装，若美国袭击伊朗电网，则关闭通往红海的曼德海峡。",
+          "url": "https://flash.jin10.com/detail/20260716195103491800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "伊朗议长称为维护国家利益必须时刻做好准备",
@@ -151,7 +162,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -179,6 +190,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 05时55分]"
+        },
+        {
+          "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
+          "url": "https://www.cls.cn/detail/2428434",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 20时18分]"
         },
         {
           "title": "美军对驶往伊朗油轮射“地狱火”导弹",
@@ -226,17 +249,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时55分]"
-        },
-        {
-          "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
-          "url": "https://www.cls.cn/detail/2428434",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
         },
         {
           "title": "美国中央司令部：美军7月15日在阿拉伯湾执行针对伊朗的海上封锁措施，击停了一艘试图驶往伊朗港口、且未装载货物的油轮。",
@@ -290,7 +302,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -345,9 +357,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "消息人士称，伊朗告知也门胡塞武装，若美国攻击其电力网络，则关闭红海门户曼德海峡。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3135058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "据伊朗国家媒体：伊朗南部霍尔木兹港东部传出两声爆炸声。",
@@ -378,7 +401,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -625,6 +648,17 @@
           "time_info": "04时56分"
         },
         {
+          "title": "俄罗斯安全官员：美国对伊朗和委内瑞拉的行动是为了控制能源市场。",
+          "url": "https://flash.jin10.com/detail/20260716192902688800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "伊朗南部阿瓦士和恰巴哈尔传出爆炸声。（迈赫尔通讯社MEHR）",
           "url": "https://wallstreetcn.com/livenews/3134576",
           "source": "华尔街见闻-快讯",
@@ -686,7 +720,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -727,7 +761,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -788,8 +822,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时55分 ~ 18时55分]"
+          "appearance_count": 9,
+          "time_info": "[06时55分 ~ 20时18分]"
         },
         {
           "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
@@ -816,11 +850,12 @@
             16,
             14,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时04分 ~ 18时55分]"
+          "appearance_count": 13,
+          "time_info": "[03时04分 ~ 20时18分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -858,6 +893,20 @@
           "time_info": "[01时13分 ~ 03时04分]"
         },
         {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 20时18分]"
+        },
+        {
           "title": "特朗普感谢伊朗",
           "url": "https://news.ifeng.com/c/8undGPmAvXz",
           "source": "凤凰网",
@@ -867,19 +916,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
-        },
-        {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 18时55分]"
         },
         {
           "title": "特朗普倾向扩大对伊军事行动，美军评估夺取哈尔克岛、轰炸核隧道等“最危险选项”",
@@ -942,6 +978,18 @@
           "time_info": "[05时55分 ~ 06时55分]"
         },
         {
+          "title": "“特朗普金币”来了！面值1美元 计划今年秋季发行",
+          "url": "https://www.cls.cn/detail/2428113",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 20时18分]"
+        },
+        {
           "title": "美国总统特朗普：我们将很快采取行动，让退伍军人更容易成为卡车司机。",
           "url": "https://flash.jin10.com/detail/20260716042335511800",
           "source": "金十数据",
@@ -976,17 +1024,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时56分]"
-        },
-        {
-          "title": "“特朗普金币”来了！面值1美元 计划今年秋季发行",
-          "url": "https://www.cls.cn/detail/2428113",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
         },
         {
           "title": "美国总统特朗普：通用动力的进度比我们希望的要慢一些。",
@@ -1122,7 +1159,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1224,6 +1261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "特朗普将罕见发表黄金时段全国讲话 或为质疑中期选举结果铺路",
+          "url": "https://wallstreetcn.com/livenews/3135052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "英国新首相人选放话与特朗普打交道将“直来直往”",
@@ -1449,7 +1497,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -1486,8 +1534,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 20时18分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -1562,17 +1610,6 @@
           "time_info": "07时56分"
         },
         {
-          "title": "联合健康美股盘前涨超8%，公司二季度业绩超预期，并上调全年业绩指引。",
-          "url": "https://wallstreetcn.com/livenews/3135023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "美股盘前，存储芯片概念股普跌，SK海力士跌约5%，闪迪跌约4%，西部数据跌约4%，希捷科技跌约3%。 台积电跌约2%，此前公布二季度财报。",
           "url": "https://wallstreetcn.com/livenews/3134935",
           "source": "华尔街见闻-快讯",
@@ -1582,6 +1619,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
+        },
+        {
+          "title": "联合健康美股盘前涨超8%，公司二季度业绩超预期，并上调全年业绩指引。",
+          "url": "https://wallstreetcn.com/livenews/3135023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时18分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.21%，暂报2201.16点，北京时间20:48曾出现一波显著的拉升行情。 MarketVectorTM数字资产100中盘指数跌1.37%，报2601.54点，美股开盘前后冲高回落。 MarketVector数字资产100指数涨0.59%，报12956.63点。 目前，Solana涨0.31%，狗狗币跌0.62%，XRP持平。 比特币涨0.66%，暂报64969.74美元；以太坊涨1.95%，暂报1913.81美元。",
@@ -1667,6 +1716,17 @@
           "time_info": "07时56分"
         },
         {
+          "title": "雅培第二季度净销售额为125.9亿美元，市场预期为125.4亿美元。 第二季度调整后每股收益为1.31美元，市场预期为1.28美元。 雅培预计2026年全年调整后每股收益为5.45至5.60美元，此前预期为5.38至5.58美元。 雅培预计第三季度调整后每股收益为1.38至1.46美元，市场预期为1.42美元。 雅培美股盘前涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3135057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "美股中概股集体走强 SK海力士跌9%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E8%B5%B0%E5%BC%BA+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B7%8C9%25",
           "source": "百度热搜",
@@ -1736,7 +1796,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -1746,11 +1806,12 @@
             10,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 20时18分]"
         },
         {
           "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
@@ -1786,6 +1847,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时55分]"
+        },
+        {
+          "title": "Google与英国零售贸易商Screwfix达成合作。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3135061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -1856,11 +1928,12 @@
           "url": "https://www.zhihu.com/question/2060769193977280048",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 16时05分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 20时18分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -1881,11 +1954,12 @@
           "url": "https://www.toutiao.com/trending/7663049647610400299/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 20时18分]"
         }
       ]
     },
@@ -1915,6 +1989,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "兴业银锡：兴业黄金（香港）以每股0.053澳元的价格分两批认购TAT在澳大利亚证券交易所定向增发的普通股，认购股份总数占认购完成日其已发行股份的20%，合计交易金额约518.27万澳元。",
+          "url": "https://wallstreetcn.com/livenews/3135031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         }
       ]
     },
