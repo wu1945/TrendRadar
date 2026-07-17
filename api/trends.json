@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T07:55:57.006915+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-07-17T10:12:47.623645+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊媒：伊朗布什尔市传出爆炸声",
@@ -58,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -164,6 +164,17 @@
           "time_info": "05时07分"
         },
         {
+          "title": "美国军方完成对伊朗的最新一轮打击。 美军称，打击了数十个伊朗军事目标，打击了伊朗沿海监视与防空阵地。 美军中央司令部称，正在进一步削弱伊朗的军事能力。",
+          "url": "https://wallstreetcn.com/livenews/3135387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "伊朗革命卫队：伊朗绝不会允许美国介入霍尔木兹海峡事务。伊朗规定的航行路线是安全的，任何偏离该路线的航线都将面临风险，相关船只可能遭受损害。",
           "url": "https://flash.jin10.com/detail/20260717031824680800",
           "source": "金十数据",
@@ -203,7 +214,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -236,7 +247,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -313,7 +324,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -340,6 +351,17 @@
           "time_info": "04时00分"
         },
         {
+          "title": "美军称成功对伊朗实施新一轮打击 为连续第六晚行动",
+          "url": "https://flash.jin10.com/detail/20260717095002277800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "伊朗革命卫队：只有美国不再存在于该地区，霍尔木兹海峡的安全才能得到全面保障。",
           "url": "https://flash.jin10.com/detail/20260717025637220800",
           "source": "金十数据",
@@ -357,9 +379,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "美国中央司令部：已完成对伊朗的最新一轮重大打击。",
+          "url": "https://flash.jin10.com/detail/20260717094813166800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军方表示，对在巴林萨基尔基地的美国直升机和侦察机实施了无人机攻击。",
@@ -368,7 +401,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -390,7 +423,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -434,7 +467,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -448,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "据伊朗媒体报道，美军周五早间袭击了阿巴斯港铁路枢纽。",
+          "url": "https://wallstreetcn.com/livenews/3135357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "敌人袭击伊朗Bandar Abbas周边区域。（伊朗媒体IRNA）",
@@ -467,9 +511,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "美国袭击伊朗港口城市致7死9伤",
+          "url": "https://wallstreetcn.com/livenews/3135355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "伊朗方面否认有美籍人员从该国监狱获释",
@@ -478,7 +533,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -511,7 +566,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -530,7 +585,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -551,7 +606,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -567,13 +622,24 @@
           "time_info": "02时02分"
         },
         {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "美国白宫通讯总监‌张振熙：懦夫。NBC和ABC不想让你听到真相。他们只想对你隐瞒事实。（此前报道称这两家媒体将不会电视直播特朗普今天黄金时段的演讲）",
           "url": "https://flash.jin10.com/detail/20260717074910149800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -598,6 +664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普再次呼吁通过面临参议院强烈反对的选举改革法案",
+          "url": "https://flash.jin10.com/detail/20260717095547155800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "白宫新闻秘书Leavitt：白宫提词器操作员被停职。 美国总统特朗普认为，被控参与下注的提词器操作员“行为可耻”。",
@@ -644,6 +721,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "特朗普黄金时段演讲未详细阐明伊朗冲突情况",
+          "url": "https://flash.jin10.com/detail/20260717095348732800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今晚将谈论选举诚信。 重申（特朗普）对沃尔玛的赞赏。 特朗普将前往世界杯决赛现场。",
           "url": "https://wallstreetcn.com/livenews/3135209",
           "source": "华尔街见闻-快讯",
@@ -666,13 +754,35 @@
           "time_info": "00时16分"
         },
         {
+          "title": "特朗普援引争议数据 称约27.8万名非公民登记投票",
+          "url": "https://flash.jin10.com/detail/20260717095118374800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "万斯驳斥特朗普亲信利用内幕获利传言",
           "url": "https://flash.jin10.com/detail/20260717072923735800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -705,15 +815,37 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "特朗普：很快就会看到在伊朗的成果。",
+          "url": "https://wallstreetcn.com/livenews/3135354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "美国总统特朗普向全国发表讲话。特朗普宣扬通胀下降和股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3135352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -793,6 +925,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
+          "url": "https://www.cls.cn/detail/2428944",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
@@ -875,7 +1018,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -908,8 +1051,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 10时12分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -918,9 +1061,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 10时12分]"
         },
         {
           "title": "美股存储芯片指数收跌超8%",
@@ -938,11 +1081,24 @@
           "url": "https://www.cls.cn/detail/2428956",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 10时12分]"
+        },
+        {
+          "title": "美股芯片股深夜大跌",
+          "url": "https://www.toutiao.com/trending/7663271539885739558/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 10时12分]"
         },
         {
           "title": "美股存储芯片指数跌幅扩大至7%，闪迪跌幅扩大至10%，西部数据跌近9%。SK海力士ADR跌8.6%。费城半导体指数目前跌3.5%，纳斯达克100指数维持超过0.9%的跌幅。",
@@ -954,6 +1110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
@@ -1020,17 +1187,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
-        },
-        {
-          "title": "美股芯片股深夜大跌",
-          "url": "https://www.toutiao.com/trending/7663271539885739558/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
         }
       ]
     },
@@ -1085,11 +1241,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 10时12分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -1111,24 +1268,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 10时12分]"
+        },
+        {
           "title": "伯恩斯坦：将2026年黄金价格目标上调至4533美元/盎司，因各国央行正在实现储备多元化，且预计美联储在未来一年内最多只会加息一两次。",
           "url": "https://flash.jin10.com/detail/20260717075253072800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
-          "url": "https://www.cls.cn/detail/2428987",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
@@ -1157,7 +1315,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
