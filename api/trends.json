@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T10:40:55.551078+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-07-27T14:25:29.914772+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "乌军袭击商船引发爆炸，伊朗发表声明谴责",
@@ -82,6 +82,17 @@
           "time_info": "[00时11分 ~ 06时57分]"
         },
         {
+          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
+          "url": "https://www.cls.cn/detail/2437313",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 14时25分]"
+        },
+        {
           "title": "伊朗高级消息人士表示，只要美国维持目前的停火状态，伊朗将停止攻击。（路透）",
           "url": "https://wallstreetcn.com/livenews/3139853",
           "source": "华尔街见闻-快讯",
@@ -93,17 +104,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时11分 ~ 06时57分]"
-        },
-        {
-          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
-          "url": "https://www.cls.cn/detail/2437313",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：伊朗与美国之间的信息交流以及调解人的活动仍在继续。",
@@ -123,7 +123,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -319,6 +319,18 @@
           "time_info": "[01时59分 ~ 03时14分]"
         },
         {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 14时25分]"
+        },
+        {
           "title": "俄罗斯外交部：俄外长就7月25日乌克兰无人机袭击伊朗商船并造成一名伊朗船员死亡一事表示诚挚哀悼。阿拉格齐感谢阿斯特拉罕当局为遇袭船只船员提供帮助，并强调必须防止基辅此类冒险行径。",
           "url": "https://flash.jin10.com/detail/20260727003123877800",
           "source": "金十数据",
@@ -509,15 +521,26 @@
           "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
+          "title": "美军前军官：在应对长期冲突方面，伊朗似乎比美国更具优势",
+          "url": "https://flash.jin10.com/detail/20260727134711153800",
+          "source": "金十数据",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "14时25分"
+        },
+        {
+          "title": "乌克兰此时打击伊朗商船，图啥？",
+          "url": "https://news.ifeng.com/c/8v5Ckfob4r6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "伊朗警告乌克兰",
@@ -526,7 +549,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -542,6 +565,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "伊朗拦截6艘企图通过霍尔木兹海峡的船只",
+          "url": "https://wallstreetcn.com/livenews/3140023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "伊朗称暂停对等打击美行动",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%9A%82%E5%81%9C%E5%AF%B9%E7%AD%89%E6%89%93%E5%87%BB%E7%BE%8E%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -553,13 +587,24 @@
           "time_info": "07时57分"
         },
         {
+          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "伊朗暂停对美国报复性行动",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%8A%A5%E5%A4%8D%E6%80%A7%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -573,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "以总理：若伊朗攻击以色列将强力回应",
+          "url": "https://www.toutiao.com/trending/7666965569006223379/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "以色列总理内塔尼亚胡：如果伊朗以任何方式发动攻击，我们的回应将是强有力的。",
@@ -600,7 +656,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
@@ -662,6 +718,17 @@
           "time_info": "[00时10分 ~ 01时59分]"
         },
         {
+          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
+          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 14时25分]"
+        },
+        {
           "title": "美媒曝光特朗普暂停空袭伊朗原因",
           "url": "https://www.douyin.com/hot/2585679",
           "source": "抖音",
@@ -689,15 +756,26 @@
           "time_info": "[00时11分 ~ 06时57分]"
         },
         {
-          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
-          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
-          "source": "凤凰网",
+          "title": "特朗普连发数十张AI图",
+          "url": "https://www.toutiao.com/trending/7665983724168937498/",
+          "source": "今日头条",
           "ranks": [
-            1
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "14时25分"
+        },
+        {
+          "title": "特朗普是不是美国最好总统？泽连斯基回应",
+          "url": "https://news.ifeng.com/c/8v6JXj4MicX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
@@ -830,7 +908,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -868,6 +946,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "美共和党参议员称特朗普短期内结束伊朗战争可能性低",
+          "url": "https://flash.jin10.com/detail/20260727131016363800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：伊朗问题取决于特朗普的决定。",
           "url": "https://flash.jin10.com/detail/20260726222401916800",
           "source": "金十数据",
@@ -882,18 +971,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
         {
           "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 14时25分]"
         },
         {
           "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
@@ -905,6 +1006,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
+          "url": "https://www.cls.cn/detail/2437261",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "OpenAI、Anthropic被曝游说封堵开源模型 硅谷上演“开源保卫战”",
+          "url": "https://www.cls.cn/detail/2437206",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
@@ -927,12 +1050,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
+          "url": "https://wallstreetcn.com/livenews/3140016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -981,6 +1115,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 10时40分]"
+        },
+        {
+          "title": "三重技术信号施压美股，夏季调整警报拉响？",
+          "url": "https://flash.jin10.com/detail/20260727131107062800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "梁文锋打新长鑫科技浮盈8.27亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
@@ -995,7 +1157,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         }
