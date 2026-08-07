@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T19:42:31.553885+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-08-07T20:53:07.933191+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -18,6 +18,34 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时39分 ~ 18时50分]"
+        },
+        {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时07分 ~ 20时53分]"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时47分 ~ 20时53分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -42,30 +70,15 @@
           "time_info": "[08时39分 ~ 15时07分]"
         },
         {
-          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
-          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
           "source": "凤凰网",
           "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时07分 ~ 19时42分]"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 20时53分]"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -92,15 +105,15 @@
           "time_info": "[08时39分 ~ 15时07分]"
         },
         {
-          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
-          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
-          "source": "凤凰网",
+          "title": "特朗普称伊朗谈判取得进展 市场等待就业数据之际美指期货上涨",
+          "url": "https://flash.jin10.com/detail/20260807202458983800",
+          "source": "金十数据",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "特朗普：数据中心可能会比石油更重要",
@@ -199,7 +212,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -235,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "语气显著软化！特朗普直言不降息不怪沃什，并甩锅“政治化理事会”",
+          "url": "https://flash.jin10.com/detail/20260807200444932800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
@@ -287,7 +311,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -350,18 +374,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
           "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 20时53分]"
         },
         {
           "title": "伊朗：违反（霍尔木兹海峡通航）规定的将面临货物价值20%的罚款。",
@@ -397,6 +422,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "伊朗发视频隐喻美国国运衰落原因",
+          "url": "https://www.toutiao.com/trending/7671188288800899082/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时42分 ~ 20时53分]"
         },
         {
           "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
@@ -510,15 +547,15 @@
           "time_info": "00时13分"
         },
         {
-          "title": "伊朗发视频隐喻美国国运衰落原因",
-          "url": "https://www.toutiao.com/trending/7671188288800899082/",
-          "source": "今日头条",
+          "title": "伊朗最高领袖军事顾问雷扎伊表示，沙特必须明白，与土耳其和巴基斯坦达成纸面协议并不会带来安全，就像多年来对美国的单方面依赖并未带来安全一样。改革你的政策，以便不必向他人乞求安全。",
+          "url": "https://flash.jin10.com/detail/20260807195826499800",
+          "source": "金十数据",
           "ranks": [
-            26
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "20时53分"
         },
         {
           "title": "伊朗霍尔木兹法案拟禁止美以船只通行，美国拒绝任何“阻碍”",
@@ -535,7 +572,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -582,6 +619,17 @@
           "time_info": "[00时13分 ~ 19时42分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 20时53分]"
+        },
+        {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
@@ -591,17 +639,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 08时39分]"
-        },
-        {
-          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
-          "url": "https://wallstreetcn.com/livenews/3146694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
@@ -627,17 +664,6 @@
           "time_info": "[15时07分 ~ 18时50分]"
         },
         {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时42分]"
-        },
-        {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
           "url": "https://www.cls.cn/detail/2447658",
           "source": "财联社热门",
@@ -648,6 +674,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 08时39分]"
+        },
+        {
+          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
+          "url": "https://wallstreetcn.com/livenews/3146694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时53分]"
         },
         {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
@@ -672,6 +710,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时39分 ~ 11时47分]"
+        },
+        {
+          "title": "梁文锋 只想用座机",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 20时53分]"
         },
         {
           "title": "DeepSeek豪掷1.4亿护航宇树IPO",
@@ -699,7 +748,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -709,8 +758,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时39分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[08时39分 ~ 20时53分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 20时53分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -725,20 +788,6 @@
           "time_info": "[08时39分 ~ 15时07分]"
         },
         {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时42分]"
-        },
-        {
           "title": "非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%",
           "url": "https://wallstreetcn.com/articles/3778821",
           "source": "华尔街见闻",
@@ -748,6 +797,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
+          "url": "https://www.cls.cn/detail/2448478",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 20时53分]"
         },
         {
           "title": "KOSPI下跌引发美股淘金热，韩国散户加速转投华尔街",
@@ -965,8 +1025,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI智能音箱定价逾300美元，iPhone设计之父操刀设计“甜甜圈”外形",
+          "url": "https://wallstreetcn.com/articles/3778889",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 20时53分]"
+        },
         {
           "title": "OpenAI：正围绕年轻人精神健康与AI问题与美国心理学会（APA）合作。",
           "url": "https://wallstreetcn.com/livenews/3146149",
