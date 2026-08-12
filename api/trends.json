@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T16:13:56.591200+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-08-12T17:58:33.050108+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -68,6 +68,40 @@
           "time_info": "06时37分"
         },
         {
+          "title": "日本首相高市早苗：在霍尔木兹海峡局势进入关键阶段之际，考虑到伊朗正继续与相关国家就实现海峡开放展开沟通，日本认为，缓解当前军事紧张局势并尽快平息事态至关重要。",
+          "url": "https://flash.jin10.com/detail/20260812175424744800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "日本首相高市早苗：鉴于当前最新的中东局势，我与伊朗总统佩泽希齐扬进行了第四次电话会谈。",
+          "url": "https://flash.jin10.com/detail/20260812175416736800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
+          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 17时58分]"
+        },
+        {
           "title": "伊朗警告乌克兰不赔偿就动手",
           "url": "https://www.toutiao.com/trending/7671598956682723379/",
           "source": "今日头条",
@@ -127,18 +161,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时59分]"
-        },
-        {
-          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
-          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 16时13分]"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗总统会见了巴基斯坦内政部长。",
@@ -337,15 +359,37 @@
           "time_info": "04时49分"
         },
         {
+          "title": "伊朗驻巴基斯坦大使会见巴基斯坦外长",
+          "url": "https://flash.jin10.com/detail/20260812173702411800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
           "title": "日本首相高市早苗与伊朗总统通电话。（共同社）",
           "url": "https://wallstreetcn.com/livenews/3148490",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
+        },
+        {
+          "title": "据伊朗学生通讯社：霍尔木兹甘省机场管理局发布通知，阿巴斯港国际机场将于8月15日恢复航班运营。",
+          "url": "https://flash.jin10.com/detail/20260812173329946800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "摩萨德前局长称以方人员多次“踩点”伊朗核设施",
@@ -354,9 +398,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
+        },
+        {
+          "title": "伊朗霍尔木兹甘机场管理局：阿巴斯港国际机场将于8月15日恢复航班运营。",
+          "url": "https://flash.jin10.com/detail/20260812173318272800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
@@ -387,7 +442,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         }
@@ -395,7 +450,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -430,8 +485,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时37分 ~ 16时13分]"
+          "appearance_count": 5,
+          "time_info": "[06时37分 ~ 17时58分]"
         },
         {
           "title": "特朗普：我不信任伊朗。",
@@ -514,6 +569,18 @@
           "time_info": "[05时42分 ~ 06时37分]"
         },
         {
+          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
+          "url": "https://www.cls.cn/detail/2452049",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 17时58分]"
+        },
+        {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://wallstreetcn.com/livenews/3148261",
           "source": "华尔街见闻-快讯",
@@ -547,17 +614,6 @@
           "time_info": "12时03分"
         },
         {
-          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
-          "url": "https://www.cls.cn/detail/2452049",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
           "title": "特朗普考虑降低资本利得税，市场影响有多大？",
           "url": "https://flash.jin10.com/detail/20260812090741043800",
           "source": "金十数据",
@@ -589,6 +645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -704,7 +771,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -752,6 +819,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时26分 ~ 14时10分]"
+        },
+        {
+          "title": "美股期指短线拉升，纳斯达克100指数期货上涨0.7%。 美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。",
+          "url": "https://wallstreetcn.com/livenews/3148557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
@@ -860,7 +938,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -1047,11 +1125,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 16时13分]"
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 17时58分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -1132,7 +1211,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
@@ -1170,6 +1249,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 02时56分]"
+        },
+        {
+          "title": "美元指数DXY短线下挫12点，最低至99.70，现回升至99.79。",
+          "url": "https://flash.jin10.com/detail/20260812172851182800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         }
       ]
     },
